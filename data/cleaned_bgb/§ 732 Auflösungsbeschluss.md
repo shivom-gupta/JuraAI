@@ -1,0 +1,2 @@
+# § 732 Auflösungsbeschluss
+Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss ein Beschluss, der die Auflösung der Gesellschaft zum Gegenstand hat, mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.

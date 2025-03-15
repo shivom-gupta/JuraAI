@@ -1,0 +1,2 @@
+# § 2226 Kündigung durch den Testamentsvollstrecker
+Der Testamentsvollstrecker kann das Amt jederzeit kündigen. Die Kündigung erfolgt durch Erklärung gegenüber dem Nachlassgericht. Die Vorschrift des § 671 Abs. 2, 3 findet entsprechende Anwendung.

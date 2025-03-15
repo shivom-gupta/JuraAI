@@ -1,0 +1,2 @@
+# § 1488 Gesamtgutsverbindlichkeiten
+Gesamtgutsverbindlichkeiten der fortgesetzten Gütergemeinschaft sind die Verbindlichkeiten des überlebenden Ehegatten sowie solche Verbindlichkeiten des verstorbenen Ehegatten, die Gesamtgutsverbindlichkeiten der ehelichen Gütergemeinschaft waren.

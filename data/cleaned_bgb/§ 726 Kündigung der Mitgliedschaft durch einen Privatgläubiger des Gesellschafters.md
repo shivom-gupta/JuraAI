@@ -1,0 +1,2 @@
+# § 726 Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
+Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten sechs Monate eine Zwangsvollstreckung in das bewegliche Vermögen des Gesellschafters ohne Erfolg versucht wurde, aufgrund eines nicht bloß vorläufig vollstreckbaren Schuldtitels die Pfändung des Anteils des Gesellschafters an der Gesellschaft erwirkt, kann er dessen Mitgliedschaft gegenüber der Gesellschaft unter Einhaltung einer Frist von drei Monaten zum Ablauf des Kalenderjahrs kündigen.

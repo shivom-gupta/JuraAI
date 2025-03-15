@@ -1,0 +1,2 @@
+# § 73 Unterschreiten der Mindestmitgliederzahl
+Sinkt die Zahl der Vereinsmitglieder unter drei herab, so hat das Amtsgericht auf Antrag des Vorstands und, wenn der Antrag nicht binnen drei Monaten gestellt wird, von Amts wegen nach Anhörung des Vorstands dem Verein die Rechtsfähigkeit zu entziehen.

@@ -1,0 +1,2 @@
+# § 2126 Außerordentliche Lasten
+Der Vorerbe hat im Verhältnis zu dem Nacherben nicht die außerordentlichen Lasten zu tragen, die als auf den Stammwert der Erbschaftsgegenstände gelegt anzusehen sind. Auf diese Lasten findet die Vorschrift des § 2124 Abs. 2 Anwendung.

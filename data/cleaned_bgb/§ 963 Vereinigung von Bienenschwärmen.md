@@ -1,0 +1,2 @@
+# § 963 Vereinigung von Bienenschwärmen
+Vereinigen sich ausgezogene Bienenschwärme mehrerer Eigentümer, so werden die Eigentümer, welche ihre Schwärme verfolgt haben, Miteigentümer des eingefangenen Gesamtschwarms; die Anteile bestimmen sich nach der Zahl der verfolgten Schwärme.

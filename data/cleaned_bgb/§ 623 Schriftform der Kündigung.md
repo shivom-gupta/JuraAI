@@ -1,0 +1,2 @@
+# § 623 Schriftform der Kündigung
+Die Beendigung von Arbeitsverhältnissen durch Kündigung oder Auflösungsvertrag bedürfen zu ihrer Wirksamkeit der Schriftform; die elektronische Form ist ausgeschlossen.

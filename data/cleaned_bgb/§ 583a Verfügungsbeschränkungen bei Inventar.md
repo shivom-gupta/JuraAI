@@ -1,0 +1,2 @@
+# § 583a Verfügungsbeschränkungen bei Inventar
+Vertragsbestimmungen, die den Pächter eines Betriebs verpflichten, nicht oder nicht ohne Einwilligung des Verpächters über Inventarstücke zu verfügen oder Inventar an den Verpächter zu veräußern, sind nur wirksam, wenn sich der Verpächter verpflichtet, das Inventar bei der Beendigung des Pachtverhältnisses zum Schätzwert zu erwerben.

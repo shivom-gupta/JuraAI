@@ -1,0 +1,5 @@
+# § 1791a Vereinsvormundschaft
+(1) Ein rechtsfähiger Verein kann zum Vormund bestellt werden, wenn er vom Landesjugendamt hierzu für geeignet erklärt worden ist. Der Verein darf nur zum Vormund bestellt werden, wenn eine als ehrenamtlicher Einzelvormund geeignete Person nicht vorhanden ist oder wenn er nach § 1776 als Vormund berufen ist; die Bestellung bedarf der Einwilligung des Vereins.
+(2) Die Bestellung erfolgt durch Beschluss des Familiengerichts; die §§ 1789, 1791 sind nicht anzuwenden.
+(3) Der Verein bedient sich bei der Führung der Vormundschaft einzelner seiner Mitglieder oder Mitarbeiter; eine Person, die den Mündel in einem Heim des Vereins als Erzieher betreut, darf die Aufgaben des Vormunds nicht ausüben. Für ein Verschulden des Mitglieds oder des Mitarbeiters ist der Verein dem Mündel in gleicher Weise verantwortlich wie für ein Verschulden eines verfassungsmäßig berufenen Vertreters.
+(4) Will das Familiengericht neben dem Verein einen Mitvormund oder will es einen Gegenvormund bestellen, so soll es vor der Entscheidung den Verein hören.

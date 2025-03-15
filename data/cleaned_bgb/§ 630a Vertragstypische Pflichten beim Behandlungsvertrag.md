@@ -1,0 +1,3 @@
+# § 630a Vertragstypische Pflichten beim Behandlungsvertrag
+(1) Durch den Behandlungsvertrag wird derjenige, welcher die medizinische Behandlung eines Patienten zusagt (Behandelnder), zur Leistung der versprochenen Behandlung, der andere Teil (Patient) zur Gewährung der vereinbarten Vergütung verpflichtet, soweit nicht ein Dritter zur Zahlung verpflichtet ist.
+(2) Die Behandlung hat nach den zum Zeitpunkt der Behandlung bestehenden, allgemein anerkannten fachlichen Standards zu erfolgen, soweit nicht etwas anderes vereinbart ist.

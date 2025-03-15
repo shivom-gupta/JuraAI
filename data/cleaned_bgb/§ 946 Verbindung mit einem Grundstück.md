@@ -1,0 +1,2 @@
+# § 946 Verbindung mit einem Grundstück
+Wird eine bewegliche Sache mit einem Grundstück dergestalt verbunden, dass sie wesentlicher Bestandteil des Grundstücks wird, so erstreckt sich das Eigentum an dem Grundstück auf diese Sache.

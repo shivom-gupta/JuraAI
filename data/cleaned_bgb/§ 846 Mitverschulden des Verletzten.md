@@ -1,0 +1,2 @@
+# § 846 Mitverschulden des Verletzten
+Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so findet auf den Anspruch des Dritten die Vorschrift des § 254 Anwendung.

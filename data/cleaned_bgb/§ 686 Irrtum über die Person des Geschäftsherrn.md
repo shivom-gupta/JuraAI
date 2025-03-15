@@ -1,0 +1,2 @@
+# § 686 Irrtum über die Person des Geschäftsherrn
+Ist der Geschäftsführer über die Person des Geschäftsherrn im Irrtum, so wird der wirkliche Geschäftsherr aus der Geschäftsführung berechtigt und verpflichtet.

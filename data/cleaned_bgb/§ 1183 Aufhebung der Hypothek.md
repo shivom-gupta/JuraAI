@@ -1,0 +1,2 @@
+# § 1183 Aufhebung der Hypothek
+Zur Aufhebung der Hypothek durch Rechtsgeschäft ist die Zustimmung des Eigentümers erforderlich. Die Zustimmung ist dem Grundbuchamt oder dem Gläubiger gegenüber zu erklären; sie ist unwiderruflich.

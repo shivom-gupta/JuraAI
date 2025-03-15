@@ -1,0 +1,2 @@
+# § 87b Auflösung der Stiftung bei Insolvenz
+Die Stiftung wird durch die Eröffnung des Insolvenzverfahrens und mit der Rechtskraft des Beschlusses, durch den die Eröffnung des Insolvenzverfahrens mangels Masse abgewiesen worden ist, aufgelöst.

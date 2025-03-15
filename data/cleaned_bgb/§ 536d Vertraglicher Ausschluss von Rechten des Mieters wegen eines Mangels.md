@@ -1,0 +1,2 @@
+# § 536d Vertraglicher Ausschluss von Rechten des Mieters wegen eines Mangels
+Auf eine Vereinbarung, durch die die Rechte des Mieters wegen eines Mangels der Mietsache ausgeschlossen oder beschränkt werden, kann sich der Vermieter nicht berufen, wenn er den Mangel arglistig verschwiegen hat.

@@ -1,0 +1,2 @@
+# § 342 Andere als Geldstrafe
+Wird als Strafe eine andere Leistung als die Zahlung einer Geldsumme versprochen, so finden die Vorschriften der §§ 339 bis 341 Anwendung; der Anspruch auf Schadensersatz ist ausgeschlossen, wenn der Gläubiger die Strafe verlangt.

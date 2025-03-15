@@ -1,0 +1,2 @@
+# § 2302 Unbeschränkbare Testierfreiheit
+Ein Vertrag, durch den sich jemand verpflichtet, eine Verfügung von Todes wegen zu errichten oder nicht zu errichten, aufzuheben oder nicht aufzuheben, ist nichtig.

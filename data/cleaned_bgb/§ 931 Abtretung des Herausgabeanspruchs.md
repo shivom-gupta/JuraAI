@@ -1,0 +1,2 @@
+# § 931 Abtretung des Herausgabeanspruchs
+Ist ein Dritter im Besitz der Sache, so kann die Übergabe dadurch ersetzt werden, dass der Eigentümer dem Erwerber den Anspruch auf Herausgabe der Sache abtritt.

@@ -1,0 +1,2 @@
+# § 884 Wirkung gegenüber Erben
+Soweit der Anspruch durch die Vormerkung gesichert ist, kann sich der Erbe des Verpflichteten nicht auf die Beschränkung seiner Haftung berufen.

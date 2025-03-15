@@ -1,0 +1,2 @@
+# § 420 Teilbare Leistung
+Schulden mehrere eine teilbare Leistung oder haben mehrere eine teilbare Leistung zu fordern, so ist im Zweifel jeder Schuldner nur zu einem gleichen Anteil verpflichtet, jeder Gläubiger nur zu einem gleichen Anteil berechtigt.

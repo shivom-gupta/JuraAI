@@ -1,0 +1,13 @@
+# § 1925 Gesetzliche Erben zweiter Ordnung
+(1) Gesetzliche Erben der zweiten Ordnung sind die Eltern des Erblassers und deren Abkömmlinge.
+(2) Leben zur Zeit des Erbfalls die Eltern, so erben sie allein und zu gleichen Teilen.
+(3) Lebt zur Zeit des Erbfalls der Vater oder die Mutter nicht mehr, so treten an die Stelle des Verstorbenen dessen Abkömmlinge nach den für die Beerbung in der ersten Ordnung geltenden Vorschriften. Sind Abkömmlinge nicht vorhanden, so erbt der überlebende Teil allein.
+(4) In den Fällen des § 1756 sind das angenommene Kind und die Abkömmlinge der leiblichen Eltern oder des anderen Elternteils des Kindes im Verhältnis zueinander nicht Erben der zweiten Ordnung.
+## Expertenhinweise
+(für Juristen)
+### Allgemeines
+[1]( I stehen **die Eltern des Erblassers** an der Spitze der zweiten Ordnung im Verwandtenerbrecht, gefolgt von ihren Abkömmlingen mit Ausnahme des Erblassers und seiner Abkömmlinge, der die erste Ordnung (§ 1924) anführt. Die Eltern kommen allerdings nur zum Zuge, sofern kein Verwandter einer höheren Ordnung vorhanden ist (§ 1930). Lebt also noch ein Kind des Erblassers erbt es allein (§ 1930). Auch der Vater eines nichtehelichen Kindes ist erbberechtigt, wenn sein Verwandtschaftsverhältnis zum Kind durch die förmliche Anerkennung der Vaterschaft gesichert ist.
+[2]( sind leiblichen Kindern gleichgestellt. Kinder, die bei der Adoption bereits volljährig waren, erben "doppelt" (§ 1770 II), da sie sowohl gesetzliche Erben der leiblichen als auch der Adoptiveltern sind. Bei der Adoption minderjähriger Kinder verlieren die leiblichen Eltern ihren Elternstatus (§ 1755).
+[3]( den kinderlosen Abkömmling überlebenden Elternteile erben zu gleichen Teilen (§ 1925 II). Das Elternverhältnis zum Kind (Erblasser) wird auch nicht dadurch berührt, dass sich die Eltern scheiden lassen. Sind beide Elternteile noch vorhanden, schließen sie die Geschwister des Erblassers als Erben aus.
+[4]( ein Elternteil bereits verstorben und auch kein weiterer Abkömmling vorhanden, erbt **der überlebende Elternteil** alles alleine (§ 1925 III 2). Sind weitere Abkömmlinge vorhanden, treten an die Stelle des Verstorbenen dessen Abkömmlinge (§ 1925 III). Es ist erkennbar, dass Geschwister in der Hierarchie des Verwandtenerbrechts nicht sonderlich hoch stehen. **Geschwister** sind auch keine Pflichtteilsberechtigten (Abkömmlinge, Eltern, Ehegatten).
+[5]( IV sind Adoptivkinder, die als Minderjährige angenommen wurden, mit ihren leiblichen Eltern und deren Abkömmlingen nicht mehr verwandt.

@@ -1,0 +1,3 @@
+# § 397 Erlassvertrag, negatives Schuldanerkenntnis
+(1) Das Schuldverhältnis erlischt, wenn der Gläubiger dem Schuldner durch Vertrag die Schuld erlässt.
+(2) Das Gleiche gilt, wenn der Gläubiger durch Vertrag mit dem Schuldner anerkennt, dass das Schuldverhältnis nicht bestehe.

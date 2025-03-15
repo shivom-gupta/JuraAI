@@ -1,0 +1,3 @@
+# § 1836e Gesetzlicher Forderungsübergang
+(1) Soweit die Staatskasse den Vormund oder Gegenvormund befriedigt, gehen Ansprüche des Vormundes oder Gegenvormunds gegen den Mündel auf die Staatskasse über. Nach dem Tode des Mündels haftet sein Erbe nur mit dem Wert des im Zeitpunkt des Erbfalls vorhandenen Nachlasses; § 102 Abs. 3 und 4 des Zwölften Buches Sozialgesetzbuch gilt entsprechend, § 1836c findet auf den Erben keine Anwendung.
+(2) Soweit Ansprüche gemäß § 1836c Nr. 1 Satz 3 einzusetzen sind, findet zugunsten der Staatskasse § 850b der Zivilprozessordnung keine Anwendung.

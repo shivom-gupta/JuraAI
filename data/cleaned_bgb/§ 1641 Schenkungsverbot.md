@@ -1,0 +1,2 @@
+# § 1641 Schenkungsverbot
+Die Eltern können nicht in Vertretung des Kindes Schenkungen machen. Ausgenommen sind Schenkungen, durch die einer sittlichen Pflicht oder einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.

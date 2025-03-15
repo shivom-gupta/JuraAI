@@ -1,0 +1,2 @@
+# § 2011 Keine Inventarfrist für den Fiskus als Erben
+Dem Fiskus als gesetzlichem Erben kann eine Inventarfrist nicht bestimmt werden. Der Fiskus ist den Nachlassgläubigern gegenüber verpflichtet, über den Bestand des Nachlasses Auskunft zu erteilen.

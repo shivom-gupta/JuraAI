@@ -1,0 +1,2 @@
+# § 1421 Verwaltung des Gesamtguts
+Die Ehegatten sollen in dem Ehevertrag, durch den sie die Gütergemeinschaft vereinbaren, bestimmen, welcher der Ehegatten das Gesamtgut verwaltet oder ob es von ihnen gemeinschaftlich verwaltet wird. Enthält der Ehevertrag keine Bestimmung hierüber, so verwalten die Ehegatten das Gesamtgut gemeinschaftlich.

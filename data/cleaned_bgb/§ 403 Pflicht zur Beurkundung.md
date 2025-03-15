@@ -1,0 +1,2 @@
+# § 403 Pflicht zur Beurkundung
+Der bisherige Gläubiger hat dem neuen Gläubiger auf Verlangen eine öffentlich beglaubigte Urkunde über die Abtretung auszustellen. Die Kosten hat der neue Gläubiger zu tragen und vorzuschießen.

@@ -1,0 +1,4 @@
+# § 1901b Gespräch zur Feststellung des Patientenwillens
+(1) Der behandelnde Arzt prüft, welche ärztliche Maßnahme im Hinblick auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Er und der Betreuer erörtern diese Maßnahme unter Berücksichtigung des Patientenwillens als Grundlage für die nach § 1901a zu treffende Entscheidung.
+(2) Bei der Feststellung des Patientenwillens nach § 1901a Absatz 1 oder der Behandlungswünsche oder des mutmaßlichen Willens nach § 1901a Absatz 2 soll nahen Angehörigen und sonstigen Vertrauenspersonen des Betreuten Gelegenheit zur Äußerung gegeben werden, sofern dies ohne erhebliche Verzögerung möglich ist.
+(3) Die Absätze 1 und 2 gelten für Bevollmächtigte entsprechend.

@@ -1,0 +1,2 @@
+# § 509 Prüfung der Kreditwürdigkeit
+Vor dem Abschluss eines Vertrags über eine entgeltliche Finanzierungshilfe hat der Unternehmer die Kreditwürdigkeit des Verbrauchers zu bewerten. Grundlage für die Bewertung können Auskünfte des Verbrauchers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erheben, speichern oder verändern. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.

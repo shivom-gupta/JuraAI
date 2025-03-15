@@ -1,0 +1,2 @@
+# § 2266 Gemeinschaftliches Nottestament
+Ein gemeinschaftliches Testament kann nach den §§ 2249, 2250 auch dann errichtet werden, wenn die dort vorgesehenen Voraussetzungen nur bei einem der Ehegatten vorliegen.

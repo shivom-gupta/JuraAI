@@ -1,0 +1,2 @@
+# § 1698b Fortführung dringender Geschäfte nach Tod des Kindes
+Endet die elterliche Sorge durch den Tod des Kindes, so haben die Eltern die Geschäfte, die nicht ohne Gefahr aufgeschoben werden können, zu besorgen, bis der Erbe anderweit Fürsorge treffen kann.

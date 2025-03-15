@@ -1,0 +1,4 @@
+# § 1005 Verfolgungsrecht
+Befindet sich eine Sache auf einem Grundstück, das ein anderer als der Eigentümer der Sache besitzt, so steht diesem gegen den Besitzer des Grundstücks der in § 867 bestimmte Anspruch zu.
+## Expertenhinweise
+(für Juristen)

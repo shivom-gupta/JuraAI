@@ -1,0 +1,2 @@
+# § 651j Verjährung
+Die in § 651i Absatz 3 bezeichneten Ansprüche des Reisenden verjähren in zwei Jahren. Die Verjährungsfrist beginnt mit dem Tag, an dem die Pauschalreise dem Vertrag nach enden sollte.

@@ -1,0 +1,21 @@
+# § 2332 Verjährung
+(1) Die Verjährungsfrist des dem Pflichtteilsberechtigten nach § 2329 gegen den Beschenkten zustehenden Anspruchs beginnt mit dem Erbfall.
+(2) Die Verjährung des Pflichtteilsanspruchs und des Anspruchs nach § 2329 wird nicht dadurch gehemmt, dass die Ansprüche erst nach der Ausschlagung der Erbschaft oder eines Vermächtnisses geltend gemacht werden können.
+#### **Grundsatz: 3-jährige Verjährungsfrist ab Kenntnis**
+Die Verjährungsfrist für alle Pflichtteils- und Pflichtteilsergänzungsansprüche beträgt 3 Jahre. Sie beginnt mit Schluss des Jahres, in dem der Erbe Kenntnis von Tod _und_ Enterbung erhalten hat ([§ 199 Abs. 1 BGB]( Fraglich ist, wann konkret diese Frist zu laufen beginnt. Diese Einschätzung gestaltet sich kompliziert.
+[](
+#### **Sonderregel für Pflichtteilsergänzungsansprüche gegen den Beschenkten**
+[§ 2332 BGB]( regelt nur die Verjährung eines Pflichtteils**ergänzungs** anspruchs (wegen Schenkungen des Erblassers) und auch hier nur den **Sonderfall** , dass nicht der Erbe zur Pflichtteilsergänzung verpflichtet ist, sondern nach [§ 2329 BGB]( der Beschenkte. In diesem Fall beginnt die Verjährung (anders als die sog. „reguläre“ Verjährung nach [§ 199 BGB]( nämlich taggenau mit dem Erbfall und endet nach genau drei Jahren.
+**[2]( Der verwitwete Erblasser verstarb am 10. November 2016, sein einziger Sohn wird sofort informiert. Von dem Testament, wonach eine gemeinnützige Organisation den Nachlass im Wert von 40.000 € erbt, erfährt er am 01. März 2017. Erst am 11. November 2019 erfährt der Sohn zufällig, dass sein Vater kurz vor seinem Tod seiner damaligen Lebensgefährtin 200.000 € geschenkt hatte. Der Sohn beschließt daraufhin, seine Pflichtteils- und Pflichtteilergänzungsansprüche (insgesamt ½ x 240.000 € = 120.000 €) geltend zu machen.
+Die gemeinnützige Organisation muss diese in Höhe von 40.000 € bezahlen. Die Ansprüche gegen die gemeinnützige Organisation sind auch nicht verjährt, da für den Beginn der „regelmäßigen Verjährung“ nicht der Todeszeitpunkt bzw. die Kenntnis vom Tod ausreicht, sondern auch Kenntnis des Testaments erforderlich ist. Diese Kenntnis hatte der Sohn erst in 2017, die Verjährung beginnt also am 31.12.2017 und endet drei Jahre später. Mehr als 40.000 € muss die gemeinnützige Organisation als Erbin aber nicht bezahlen, da sie sich auf die Haftungsbeschränkung auf den Nachlass berufen kann.
+Wegen der restlichen 80.000 € kann/muss sich der Sohn an die Lebensgefährtin halten, die nach [§ 2329 BGB]( auch zur Zahlung verpflichtet ist. Allerdings hatte für diesen Anspruch nach § 2332 die Verjährung am Todestag begonnen, d.h. am 10. November 2016, trat also mit Ablauf des 10. November 2019 ein. Als der Sohn von seinem Anspruch erfahren hat, war er schon verjährt. Der Anspruch des Sohns ist verjährt und kann nicht erfolgreich durchgesetzt werden, wenn sich die Lebensgefährtin - was zu erwarten ist - auf die Einrede der Verjährung beruft.
+[ Rückfrage an den Autor ]( [ Rückfrage an den Autor ](
+## Expertenhinweise
+(für Juristen)
+### 1) Allgemeines
+[3]( das am 01.01.2010 in Kraft getretene Gesetz zur Änderung des Erb- und Verjährungsrechts vom 24.09.2009 wurden die ursprünglich in § 2332 für das gesamte Pflichtteilsrecht enthaltenen Verjährungsvorschriften in den allgemeinen Teil des BGB überführt, so dass der Pflichtteils- und Pflichtteilsergänzungsanspruch nunmehr grundsätzlich der dreijährigen Regelverjährung der [§§ 195]( [199 BGB]( unterliegt. [§ 2332 BGB]( regelt seitdem nur noch einen (relativ seltenen) Sonderfall, nämlich die Verjährung des Pflichtetilsergänzungsanspruchs gegen den/die Beschenkten, wenn der Erbe nicht zur Pflichtteilsergänzung verpflichtet ist.
+### 2) Abgrenzungen, Kasuistik
+[](
+#### a) Verjährung des Pflichtteilsergänzungsanspruch gegen den Beschenkten nach [§ 2329 BGB](
+[6]( den nur ausnahmsweise bestehenden Pflichtteilsergänzungsanspruch gegen den Beschenkten ([§ 2329 BGB]( ordnet Absatz 1 (unverändert) an, dass der Anspruch stichtagsgenau drei Jahre nach dem Todestag verjährt, d.h. unabhängig davon, ob der Pflichtteilsberechtigte zu diesem Zeitpunkt bereits Kenntnis von den anspruchsbegründenden Umständen hatte.
+[Weiterlesen >> ](

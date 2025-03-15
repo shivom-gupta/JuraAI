@@ -1,0 +1,2 @@
+# § 1284 Abweichende Vereinbarungen
+Die Vorschriften der §§ 1281 bis 1283 finden keine Anwendung, soweit der Pfandgläubiger und der Gläubiger ein anderes vereinbaren.

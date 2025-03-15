@@ -1,0 +1,6 @@
+# § 1835a Aufwandsentschädigung
+(1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der Vormund als Aufwandsentschädigung für jede Vormundschaft, für die ihm keine Vergütung zusteht, einen Geldbetrag verlangen, der für ein Jahr dem Sechzehnfachen dessen entspricht, was einem Zeugen als Höchstbetrag der Entschädigung für eine Stunde versäumter Arbeitszeit (§ 22 des Justizvergütungs- und -entschädigungsgesetzes) gewährt werden kann (Aufwandsentschädigung). Hat der Vormund für solche Aufwendungen bereits Vorschuss oder Ersatz erhalten, so verringert sich die Aufwandsentschädigung entsprechend.
+(2) Die Aufwandsentschädigung ist jährlich zu zahlen, erstmals ein Jahr nach Bestellung des Vormunds.
+(3) Ist der Mündel mittellos, so kann der Vormund die Aufwandsentschädigung aus der Staatskasse verlangen; Unterhaltsansprüche des Mündels gegen den Vormund sind insoweit bei der Bestimmung des Einkommens nach § 1836c Nr. 1 nicht zu berücksichtigen.
+(4) Der Anspruch auf Aufwandsentschädigung erlischt, wenn er nicht binnen drei Monaten nach Ablauf des Jahres, in dem der Anspruch entsteht, geltend gemacht wird; die Geltendmachung des Anspruchs beim Familiengericht gilt auch als Geltendmachung gegenüber dem Mündel.
+(5) Dem Jugendamt oder einem Verein kann keine Aufwandsentschädigung gewährt werden.

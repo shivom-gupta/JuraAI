@@ -1,0 +1,10 @@
+# § 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung
+(1) In einem Allgemein-Verbraucherdarlehensvertrag ist eine Vereinbarung über ein Kündigungsrecht des Darlehensgebers unwirksam, wenn eine bestimmte Vertragslaufzeit vereinbart wurde oder die Kündigungsfrist zwei Monate unterschreitet.
+(2) Der Darlehensgeber ist bei entsprechender Vereinbarung berechtigt, die Auszahlung eines Allgemein-Verbraucherdarlehens, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, aus einem sachlichen Grund zu verweigern. Beabsichtigt der Darlehensgeber dieses Recht auszuüben, hat er dies dem Darlehensnehmer unverzüglich mitzuteilen und ihn über die Gründe möglichst vor, spätestens jedoch unverzüglich nach der Rechtsausübung zu unterrichten. Die Unterrichtung über die Gründe unterbleibt, soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde.
+(3) Der Darlehensgeber kann einen Verbraucherdarlehensvertrag nicht allein deshalb kündigen, auf andere Weise beenden oder seine Änderung verlangen, weil die vom Darlehensnehmer vor Vertragsschluss gemachten Angaben unvollständig waren oder weil die Kreditwürdigkeitsprüfung des Darlehensnehmers nicht ordnungsgemäß durchgeführt wurde. Satz 1 findet keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem Darlehensgeber für die Kreditwürdigkeitsprüfung relevante Informationen wissentlich vorenthalten oder diese gefälscht hat.
+## Expertenhinweise
+(für Juristen)
+### Definitionen
+**1. Bedeutung der Norm**
+[ § 499 BGB]( gibt dem Darlehensgeber im System der Kündigungsrechte die Möglichkeit seine Kündigungsrechten im geringen Umfang zu erweitern. Die spiegelbildliche Vorschrift zu [§ 499 BGB]( ist [§ 500 BGB]( der die Kündigungsmöglichkeiten des Darlehensnehmers für bestimmte Fälle erweitert.
+[Weiterlesen >> ](

@@ -1,0 +1,2 @@
+# § 1979 Berichtigung von Nachlassverbindlichkeiten
+Die Berichtigung einer Nachlassverbindlichkeit durch den Erben müssen die Nachlassgläubiger als für Rechnung des Nachlasses erfolgt gelten lassen, wenn der Erbe den Umständen nach annehmen durfte, dass der Nachlass zur Berichtigung aller Nachlassverbindlichkeiten ausreiche.

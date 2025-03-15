@@ -1,0 +1,2 @@
+# § 1061 Tod des Nießbrauchers
+Der Nießbrauch erlischt mit dem Tode des Nießbrauchers. Steht der Nießbrauch einer juristischen Person oder einer rechtsfähigen Personengesellschaft zu, so erlischt er mit dieser.

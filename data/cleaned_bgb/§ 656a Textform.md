@@ -1,0 +1,2 @@
+# § 656a Textform
+Ein Maklervertrag, der den Nachweis der Gelegenheit zum Abschluss eines Kaufvertrags über eine Wohnung oder ein Einfamilienhaus oder die Vermittlung eines solchen Vertrags zum Gegenstand hat, bedarf der Textform.

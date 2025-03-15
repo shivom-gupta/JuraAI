@@ -1,0 +1,2 @@
+# § 806 Umschreibung auf den Namen
+Die Umschreibung einer auf den Inhaber lautenden Schuldverschreibung auf den Namen eines bestimmten Berechtigten kann nur durch den Aussteller erfolgen. Der Aussteller ist zur Umschreibung nicht verpflichtet.

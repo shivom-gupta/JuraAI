@@ -1,0 +1,2 @@
+# § 2029 Haftung bei Einzelansprüchen des Erben
+Die Haftung des Erbschaftsbesitzers bestimmt sich auch gegenüber den Ansprüchen, die dem Erben in Ansehung der einzelnen Erbschaftsgegenstände zustehen, nach den Vorschriften über den Erbschaftsanspruch.

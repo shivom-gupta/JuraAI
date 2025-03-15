@@ -1,0 +1,2 @@
+# § 1989 Erschöpfungseinrede des Erben
+Ist das Nachlassinsolvenzverfahren durch Verteilung der Masse oder durch einen Insolvenzplan beendet, so findet auf die Haftung des Erben die Vorschrift des § 1973 entsprechende Anwendung.

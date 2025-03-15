@@ -1,0 +1,2 @@
+# § 2127 Auskunftsrecht des Nacherben
+Der Nacherbe ist berechtigt, von dem Vorerben Auskunft über den Bestand der Erbschaft zu verlangen, wenn Grund zu der Annahme besteht, dass der Vorerbe durch seine Verwaltung die Rechte des Nacherben erheblich verletzt.

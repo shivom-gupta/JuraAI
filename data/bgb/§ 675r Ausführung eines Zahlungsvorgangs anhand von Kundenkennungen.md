@@ -1,0 +1,57 @@
+  * [Jurist. Stellenmarkt](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</job-board> "Jurist. Stellenmarkt")
+  * [Autorenverzeichnis](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Autorenverzeichnis> "Autorenverzeichnis")
+  * [Kontakt](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Kontakt>)
+  * [Anmelden](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/<#login> "show login form") [Anmelden](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/<#> "hide login form") Username Password
+[Forgot your password?](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</user/forgotpassword>) Anmelden 
+
+
+[![BGB Online Kommentar](https://bgb.kommentar.de/extension/bgb/design/bgb/images/logo.png)](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</> "BGB Online Kommentar")
+Suchen
+Navigation
+  * [Allgemeiner Teil](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-1>)
+  * [Recht der Schuldverhältnisse](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2>)
+  * [Sachenrecht](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-3>)
+  * [Familienrecht](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-4>)
+  * [Erbrecht](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-5>)
+
+
+  * [Der online BGB-Kommentar](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</>) »
+  * [Buch 2](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2>) »
+  * [Abschnitt 8](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8>) »
+  * [Titel 12](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12>) »
+  * [Untertitel 3](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3>) »
+  * [Kapitel 3](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3>) »
+  * [Unterkapitel 2](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2>) »
+  * § 675r Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen 
+  * Stand: 12.01.2025 (Gesetz) 
+
+
+![](https://vg01.met.vgwort.de/na/1c9909529ead4f509072c06d9081a7d5)
+Schliessen 
+## Artikelübersicht
+  * [ § 675n Zugang von Zahlungsaufträgen ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Zugang-von-Zahlungsauftraegen>)
+  * [ § 675o Ablehnung von Zahlungsaufträgen ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Ablehnung-von-Zahlungsauftraegen>)
+  * [ § 675p Unwiderruflichkeit eines Zahlungsauftrags ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Unwiderruflichkeit-eines-Zahlungsauftrags>)
+  * [ § 675q Entgelte bei Zahlungsvorgängen ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Entgelte-bei-Zahlungsvorgaengen>)
+  * § 675r Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen 
+  * [ § 675s Ausführungsfrist für Zahlungsvorgänge ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Ausfuehrungsfrist-fuer-Zahlungsvorgaenge>)
+  * [ § 675t Wertstellungsdatum und Verfügbarkeit von Geldbeträgen; Sperrung eines verfügbaren Geldbetrags ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Wertstellungsdatum-und-Verfuegbarkeit-von-Geldbetraegen-Sperrung-eines-verfuegbaren-Geldbetrags>)
+
+
+/ § 675r 
+Versionen  Aktuell Vor 14.01.2018
+[Previous](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Entgelte-bei-Zahlungsvorgaengen> "§ 675q Entgelte bei Zahlungsvorgängen") [Next](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Ausfuehrungsfrist-fuer-Zahlungsvorgaenge> "§ 675s Ausführungsfrist für Zahlungsvorgänge")
+# § 675r Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen
+(1) Die beteiligten Zahlungsdienstleister sind berechtigt, einen Zahlungsvorgang ausschließlich anhand der von dem Zahlungsdienstnutzer angegebenen Kundenkennung auszuführen. Wird ein Zahlungsauftrag in Übereinstimmung mit dieser Kundenkennung ausgeführt, so gilt er im Hinblick auf den durch die Kundenkennung bezeichneten Zahlungsempfänger als ordnungsgemäß ausgeführt.
+(2) Eine Kundenkennung ist eine Abfolge aus Buchstaben, Zahlen oder Symbolen, die dem Zahlungsdienstnutzer vom Zahlungsdienstleister mitgeteilt wird und die der Zahlungsdienstnutzer angeben muss, damit ein anderer am Zahlungsvorgang beteiligter Zahlungsdienstnutzer oder dessen Zahlungskonto für einen Zahlungsvorgang zweifelsfrei ermittelt werden kann.
+(3) Ist eine vom Zahler angegebene Kundenkennung für den Zahlungsdienstleister des Zahlers erkennbar keinem Zahlungsempfänger oder keinem Zahlungskonto zuzuordnen, ist dieser verpflichtet, den Zahler unverzüglich hierüber zu unterrichten und ihm gegebenenfalls den Zahlungsbetrag wieder herauszugeben.
+## Für den Rechtsverkehr 
+(für Nichtjuristen)
+[zum Expertenteil (für Juristen)](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/<#expertenhinweise>)
+Bedeutung für den Rechtsverkehr, häufige Anwendungsfälle
+## Expertenhinweise
+(für Juristen)
+Zu dieser Norm ist noch keine Kommentierung veröffentlicht. Wir hoffen, dass wir Ihnen mit dem Service der Gesetzesveröffentlichung bereits ein wenig weiterhelfen konnten. [Sprechen Sie uns gerne an](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Kontakt>), wenn Sie geeignete Autoren für eine Kommentierung vorschlagen möchten. 
+### Fußnoten
+[Previous](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Entgelte-bei-Zahlungsvorgaengen> "§ 675q Entgelte bei Zahlungsvorgängen") [Next](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/Ausfuehrungsfrist-fuer-Zahlungsvorgaenge> "§ 675s Ausführungsfrist für Zahlungsvorgänge")
+[© | Impressum](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Kontakt>) | [AGB](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</AGB>) | [Datenschutzerklärung](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-12/Untertitel-3/Kapitel-3/Unterkapitel-2/</Datenschutzerklaerung-fuer-Leser>)

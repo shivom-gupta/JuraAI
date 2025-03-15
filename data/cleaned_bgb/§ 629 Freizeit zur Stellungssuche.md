@@ -1,0 +1,2 @@
+# § 629 Freizeit zur Stellungssuche
+Nach der Kündigung eines dauernden Dienstverhältnisses hat der Dienstberechtigte dem Verpflichteten auf Verlangen angemessene Zeit zum Aufsuchen eines anderen Dienstverhältnisses zu gewähren.

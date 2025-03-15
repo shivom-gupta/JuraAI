@@ -1,0 +1,2 @@
+# § 2201 Unwirksamkeit der Ernennung
+Die Ernennung des Testamentsvollstreckers ist unwirksam, wenn er zu der Zeit, zu welcher er das Amt anzutreten hat, geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist oder nach § 1814 zur Besorgung seiner Vermögensangelegenheiten einen Betreuer erhalten hat.

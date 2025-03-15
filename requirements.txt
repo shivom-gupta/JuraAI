@@ -1,0 +1,15 @@
+langdetect~=1.0.9
+pycountry~=24.6.1
+numpy~=1.26.4
+tqdm~=4.66.5
+torch~=2.5.1
+sentence-transformers~=3.3.1
+faiss~=1.9.0
+crawl4ai~=0.4.247
+langchain~=0.3.14
+langchain-ollama~=0.2.1
+langchain-core~=0.3.30
+langchain-text-splitters~=0.3.5
+streamlit~=1.43.2
+tokenizers~=0.21.0
+transformers~=4.47.1

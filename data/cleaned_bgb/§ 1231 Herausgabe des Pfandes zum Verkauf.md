@@ -1,0 +1,2 @@
+# § 1231 Herausgabe des Pfandes zum Verkauf
+Ist der Pfandgläubiger nicht im Alleinbesitz des Pfandes, so kann er nach dem Eintritt der Verkaufsberechtigung die Herausgabe des Pfandes zum Zwecke des Verkaufs fordern. Auf Verlangen des Verpfänders hat anstelle der Herausgabe die Ablieferung an einen gemeinschaftlichen Verwahrer zu erfolgen; der Verwahrer hat sich bei der Ablieferung zu verpflichten, das Pfand zum Verkauf bereitzustellen.

@@ -1,0 +1,2 @@
+# § 690 Haftung bei unentgeltlicher Verwahrung
+Wird die Aufbewahrung unentgeltlich übernommen, so hat der Verwahrer nur für diejenige Sorgfalt einzustehen, welche er in eigenen Angelegenheiten anzuwenden pflegt.

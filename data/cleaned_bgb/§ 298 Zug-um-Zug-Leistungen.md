@@ -1,0 +1,2 @@
+# § 298 Zug-um-Zug-Leistungen
+Ist der Schuldner nur gegen eine Leistung des Gläubigers zu leisten verpflichtet, so kommt der Gläubiger in Verzug, wenn er zwar die angebotene Leistung anzunehmen bereit ist, die verlangte Gegenleistung aber nicht anbietet.

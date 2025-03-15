@@ -1,0 +1,16 @@
+# § 728b Nachhaftung des ausgeschiedenen Gesellschafters
+(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er für deren bis dahin begründete Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach seinem Ausscheiden fällig sind und
+* 1. daraus Ansprüche gegen ihn in einer in § 197 Absatz 1 Nummer 3 bis 5 bezeichneten Art festgestellt sind oder
+* 2. eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts.  
+Ist die Verbindlichkeit auf Schadensersatz gerichtet, haftet der ausgeschiedene Gesellschafter nach Satz 1 nur, wenn auch die zum Schadensersatz führende Verletzung vertraglicher oder gesetzlicher Pflichten vor dem Ausscheiden des Gesellschafters eingetreten ist. Die Frist beginnt, sobald der Gläubiger von dem Ausscheiden des Gesellschafters Kenntnis erlangt hat oder das Ausscheiden des Gesellschafters im Gesellschaftsregister eingetragen worden ist. Die §§ 204, 206, 210, 211 und 212 Absatz 2 und 3 sind entsprechend anzuwenden.
+(2) Einer Feststellung in einer in § 197 Absatz 1 Nummer 3 bis 5 bezeichneten Art bedarf es nicht, soweit der Gesellschafter den Anspruch schriftlich anerkannt hat.
+## Expertenhinweise
+(für Juristen)
+### 1) Allgemeines
+[1]( Gesellschafter haftet zum einen für Fehlbeträge, also Verluste der Gesellschaft. Diese Haftung ergibt sich aus [§ 728a BGB]( Darüber hinaus haftet er gegenüber Gesellschaftsgläubigern persönlich und unbeschränkt für einen Zeitraum von 5 Jahren nach Ausscheiden auch für Verbindlichkeiten, die bis zum Zeitpunkt seines Ausscheidens begründet wurden.
+[Weiterlesen >> ](
+### 2) Prozessuales
+**Muss ich mich wehren, wenn Gläubiger auch nach Ablauf von 5 Jahren nach meinem Ausscheiden als Gesellschafter meine persönliche Haftung fordern?**
+[9]( fünfjährige Haftungsbegrenzung des [§ 728b BGB]( ist nach dem klaren Gesetzeswillen als Ausschlussfrist und damit als Einwendung konzipiert[5]( Vgl. die Gesetzesbegründung im Entwurf eines Gesetzes zur Modernisierung des Personengesellschaftsrechts (Personengesellschaftsrechtsmodernisierungsgesetz – MoPeG v. 17.03.2021, Deutscher Bundestage Drucksache 19/27635: zu § 728b, unter  Seite 177. , d.h. anderes als eine Verjährungsregelung, die einredeweise erhoben werden muss, entfaltet der Anspruch seine Wirkung kraft Gesetzes. Vom Gericht müssen sie von Amts wegen berücksichtigt werden. Deshalb genügt es, dass das Gericht von den entsprechenden Tatsachen erfährt (dafür muss aber Sorge getragen werden), um sie im Urteil zu berücksichtigen. Keine Rolle spielt allerdings, ob Kläger oder Beklagter sie vortragen.
+[10]( ein Gesellschafter einer eingetragenen Gesellschaft im Sinne des [§ 707 Abs. 1 BGB]( seine Gesellschafterstellung im Rahmen einer Umwandlung und wird Kommanditist, haftet dieser für die zum Zeitpunkt seiner Eintragung im Handelsregister begründeten Verbindlichkeiten entsprechend § 728b, wobei es keine Rolle spielt, ob der Gesellschafter in der Gesellschaft oder einem ihr als Gesellschafter angehörenden Unternehmen geschäftsführend tätig war, vgl. [§ 707c Abs. 5 ](
+[11]( Haftung als Kommanditist bleibt unberührt.

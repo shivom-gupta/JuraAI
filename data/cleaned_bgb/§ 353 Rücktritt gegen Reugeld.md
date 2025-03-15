@@ -1,0 +1,2 @@
+# § 353 Rücktritt gegen Reugeld
+Ist der Rücktritt gegen Zahlung eines Reugelds vorbehalten, so ist der Rücktritt unwirksam, wenn das Reugeld nicht vor oder bei der Erklärung entrichtet wird und der andere Teil aus diesem Grunde die Erklärung unverzüglich zurückweist. Die Erklärung ist jedoch wirksam, wenn das Reugeld unverzüglich nach der Zurückweisung entrichtet wird.

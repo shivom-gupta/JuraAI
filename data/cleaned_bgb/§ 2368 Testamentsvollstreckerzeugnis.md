@@ -1,0 +1,2 @@
+# § 2368 Testamentsvollstreckerzeugnis
+Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein Zeugnis über die Ernennung zu erteilen. Die Vorschriften über den Erbschein finden auf das Zeugnis entsprechende Anwendung; mit der Beendigung des Amts des Testamentsvollstreckers wird das Zeugnis kraftlos.

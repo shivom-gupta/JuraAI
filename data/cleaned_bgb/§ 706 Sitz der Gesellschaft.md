@@ -1,0 +1,2 @@
+# § 706 Sitz der Gesellschaft
+Sitz der Gesellschaft ist der Ort, an dem deren Geschäfte tatsächlich geführt werden (Verwaltungssitz). Ist die Gesellschaft im Gesellschaftsregister eingetragen und haben die Gesellschafter einen Ort im Inland als Sitz vereinbart (Vertragssitz), so ist abweichend von Satz 1 dieser Ort Sitz der Gesellschaft.

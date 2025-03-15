@@ -1,0 +1,2 @@
+# § 34 Ausschluss vom Stimmrecht
+Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits zwischen ihm und dem Verein betrifft.

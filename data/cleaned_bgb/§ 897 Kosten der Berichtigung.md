@@ -1,0 +1,2 @@
+# § 897 Kosten der Berichtigung
+Die Kosten der Berichtigung des Grundbuchs und der dazu erforderlichen Erklärungen hat derjenige zu tragen, welcher die Berichtigung verlangt, sofern nicht aus einem zwischen ihm und dem Verpflichteten bestehenden Rechtsverhältnis sich ein anderes ergibt.

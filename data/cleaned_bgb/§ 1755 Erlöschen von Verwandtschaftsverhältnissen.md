@@ -1,0 +1,3 @@
+# § 1755 Erlöschen von Verwandtschaftsverhältnissen
+(1) Mit der Annahme erlöschen das Verwandtschaftsverhältnis des Kindes und seiner Abkömmlinge zu den bisherigen Verwandten und die sich aus ihm ergebenden Rechte und Pflichten. Ansprüche des Kindes, die bis zur Annahme entstanden sind, insbesondere auf Renten, Waisengeld und andere entsprechende wiederkehrende Leistungen, werden durch die Annahme nicht berührt; dies gilt nicht für Unterhaltsansprüche.
+(2) Nimmt ein Ehegatte das Kind seines Ehegatten an, so tritt das Erlöschen nur im Verhältnis zu dem anderen Elternteil und dessen Verwandten ein.

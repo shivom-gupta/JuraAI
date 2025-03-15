@@ -1,0 +1,2 @@
+# § 713 Gesellschaftsvermögen
+Die Beiträge der Gesellschafter sowie die für oder durch die Gesellschaft erworbenen Rechte und die gegen sie begründeten Verbindlichkeiten sind Vermögen der Gesellschaft.

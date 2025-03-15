@@ -1,0 +1,2 @@
+# § 1958 Gerichtliche Geltendmachung von Ansprüchen gegen den Erben
+Vor der Annahme der Erbschaft kann ein Anspruch, der sich gegen den Nachlass richtet, nicht gegen den Erben gerichtlich geltend gemacht werden.

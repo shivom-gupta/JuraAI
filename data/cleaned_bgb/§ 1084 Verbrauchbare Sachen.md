@@ -1,0 +1,2 @@
+# § 1084 Verbrauchbare Sachen
+Gehört ein Inhaberpapier oder ein Orderpapier, das mit Blankoindossament versehen ist, nach § 92 zu den verbrauchbaren Sachen, so bewendet es bei der Vorschrift des § 1067.

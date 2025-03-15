@@ -1,0 +1,2 @@
+# § 1150 Ablösungsrecht Dritter
+Verlangt der Gläubiger Befriedigung aus dem Grundstück, so finden die Vorschriften der §§ 268, 1144, 1145 entsprechende Anwendung.

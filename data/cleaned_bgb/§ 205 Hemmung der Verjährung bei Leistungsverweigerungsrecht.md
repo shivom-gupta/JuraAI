@@ -1,0 +1,2 @@
+# § 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht
+Die Verjährung ist gehemmt, solange der Schuldner auf Grund einer Vereinbarung mit dem Gläubiger vorübergehend zur Verweigerung der Leistung berechtigt ist.

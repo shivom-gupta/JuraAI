@@ -1,0 +1,2 @@
+# § 2020 Nutzungen und Früchte
+Der Erbschaftsbesitzer hat dem Erben die gezogenen Nutzungen herauszugeben; die Verpflichtung zur Herausgabe erstreckt sich auch auf Früchte, an denen er das Eigentum erworben hat.

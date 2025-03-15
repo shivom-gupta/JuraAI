@@ -1,0 +1,2 @@
+# § 8 Wohnsitz nicht voll Geschäftsfähiger
+Wer geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist, kann ohne den Willen seines gesetzlichen Vertreters einen Wohnsitz weder begründen noch aufheben.

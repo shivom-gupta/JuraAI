@@ -1,0 +1,2 @@
+# § 1677 Beendigung der Sorge durch Todeserklärung
+Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt oder seine Todeszeit nach den Vorschriften des Verschollenheitsgesetzes festgestellt wird, mit dem Zeitpunkt, der als Zeitpunkt des Todes gilt.

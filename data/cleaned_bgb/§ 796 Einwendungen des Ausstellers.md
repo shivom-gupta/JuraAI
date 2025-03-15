@@ -1,0 +1,2 @@
+# § 796 Einwendungen des Ausstellers
+Der Aussteller kann dem Inhaber der Schuldverschreibung nur solche Einwendungen entgegensetzen, welche die Gültigkeit der Ausstellung betreffen oder sich aus der Urkunde ergeben oder dem Aussteller unmittelbar gegen den Inhaber zustehen.

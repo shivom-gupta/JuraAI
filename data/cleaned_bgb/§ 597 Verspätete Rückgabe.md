@@ -1,0 +1,2 @@
+# § 597 Verspätete Rückgabe
+Gibt der Pächter die Pachtsache nach Beendigung des Pachtverhältnisses nicht zurück, so kann der Verpächter für die Dauer der Vorenthaltung als Entschädigung die vereinbarte Pacht verlangen. Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.

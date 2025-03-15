@@ -1,0 +1,2 @@
+# § 398 Abtretung
+Eine Forderung kann von dem Gläubiger durch Vertrag mit einem anderen auf diesen übertragen werden (Abtretung). Mit dem Abschluss des Vertrags tritt der neue Gläubiger an die Stelle des bisherigen Gläubigers.

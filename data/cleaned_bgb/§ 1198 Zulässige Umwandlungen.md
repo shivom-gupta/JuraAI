@@ -1,0 +1,2 @@
+# § 1198 Zulässige Umwandlungen
+Eine Hypothek kann in eine Grundschuld, eine Grundschuld kann in eine Hypothek umgewandelt werden. Die Zustimmung der im Range gleich- oder nachstehenden Berechtigten ist nicht erforderlich.

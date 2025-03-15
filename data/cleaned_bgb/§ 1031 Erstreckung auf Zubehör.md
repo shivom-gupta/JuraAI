@@ -1,0 +1,2 @@
+# § 1031 Erstreckung auf Zubehör
+Mit dem Nießbrauch an einem Grundstück erlangt der Nießbraucher den Nießbrauch an dem Zubehör nach der für den Erwerb des Eigentums geltenden Vorschrift des § 926.

@@ -1,0 +1,4 @@
+# § 734 Fortsetzung der Gesellschaft
+(1) Die Gesellschafter können nach Auflösung der Gesellschaft deren Fortsetzung beschließen, sobald der Auflösungsgrund beseitigt ist.
+(2) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss der Beschluss über die Fortsetzung der Gesellschaft mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.
+(3) War die Gesellschaft vor ihrer Auflösung im Gesellschaftsregister eingetragen, ist die Fortsetzung von sämtlichen Gesellschaftern zur Eintragung in das Gesellschaftsregister anzumelden.

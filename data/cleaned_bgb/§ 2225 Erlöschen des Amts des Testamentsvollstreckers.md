@@ -1,0 +1,2 @@
+# § 2225 Erlöschen des Amts des Testamentsvollstreckers
+Das Amt des Testamentsvollstreckers erlischt, wenn er stirbt oder wenn ein Fall eintritt, in welchem die Ernennung nach § 2201 unwirksam sein würde.

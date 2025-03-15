@@ -1,0 +1,3 @@
+# § 1892 Rechnungsprüfung und -anerkennung
+(1) Der Vormund hat die Rechnung, nachdem er sie dem Gegenvormund vorgelegt hat, dem Familiengericht einzureichen.
+(2) Das Familiengericht hat die Rechnung rechnungsmäßig und sachlich zu prüfen und deren Abnahme durch Verhandlung mit den Beteiligten unter Zuziehung des Gegenvormunds zu vermitteln. Soweit die Rechnung als richtig anerkannt wird, hat das Familiengericht das Anerkenntnis zu beurkunden.

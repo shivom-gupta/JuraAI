@@ -1,0 +1,2 @@
+# § 155 Versteckter Einigungsmangel
+Haben sich die Parteien bei einem Vertrag, den sie als geschlossen ansehen, über einen Punkt, über den eine Vereinbarung getroffen werden sollte, in Wirklichkeit nicht geeinigt, so gilt das Vereinbarte, sofern anzunehmen ist, dass der Vertrag auch ohne eine Bestimmung über diesen Punkt geschlossen sein würde.

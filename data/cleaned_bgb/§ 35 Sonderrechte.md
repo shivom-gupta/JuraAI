@@ -1,0 +1,2 @@
+# § 35 Sonderrechte
+Sonderrechte eines Mitglieds können nicht ohne dessen Zustimmung durch Beschluss der Mitgliederversammlung beeinträchtigt werden.

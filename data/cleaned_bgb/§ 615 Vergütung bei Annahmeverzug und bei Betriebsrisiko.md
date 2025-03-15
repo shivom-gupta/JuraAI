@@ -1,0 +1,11 @@
+# § 615 Vergütung bei Annahmeverzug und bei Betriebsrisiko
+Kommt der Dienstberechtigte mit der Annahme der Dienste in Verzug, so kann der Verpflichtete für die infolge des Verzugs nicht geleisteten Dienste die vereinbarte Vergütung verlangen, ohne zur Nachleistung verpflichtet zu sein. Er muss sich jedoch den Wert desjenigen anrechnen lassen, was er infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung seiner Dienste erwirbt oder zu erwerben böswillig unterlässt. Die Sätze 1 und 2 gelten entsprechend in den Fällen, in denen der Arbeitgeber das Risiko des Arbeitsausfalls trägt.
+### 4) Literaturstimmen
+[21]( Übersicht zum Annahmeverzug und Prozessbeschäftigung während des Kündigungsrechtsstreits gibt Ricken, NZA 2005, 323 ff. Mit dem Zumutbarkeitsbegriff i. S. v. § 615 S. 2 BGB befasst sich der Beitrag von Fritz/Erren, NZA 2009, 1242 ff. Das Annahmeverzugsrisiko des Arbeitgebers untersuchen Pawlak/Lüderitz, NZA 2011, 313 ff.
+### 5) Häufige Paragraphenketten
+[§§ 293]( [294]( [295]( [296]( [615 BGB ](
+### 6) Prozessuales
+[22]( Vergütungsprozess hat der Arbeitnehmer darzulegen und zu beweisen, dass im Verzugszeitraum ein Arbeitsverhältnis bestanden hat. Auch hat er den Umfang der geltend gemachten Forderung sowie die Ablehnung der Arbeitsleistung zu beweisen. Für einen fehlenden Leistungswillen oder das Leistungsunvermögen des Arbeitnehmers trifft demgegenüber den Arbeitgeber die Darlegungs- und Beweislast.
+[Weiterlesen >> ](
+### 7) Anmerkungen
+[26]( BAG legt jede nicht ausdrücklich widerruflich ausgebrachte Freistellungserklärung, welche zugleich eine Urlaubsabgeltung vorsieht, als unwiderrufliche Freistellung aus.[27]( Urteil vom 14.03.2006 - 9 AZR 11/05, NZA 2006, 1008 Den Urlaubsanspruch kann ein Arbeitgeber im Rahmen der Freistellung wirksam deshalb nur dann erfüllen, wenn er den Arbeitgeber unwiderruflich von der Arbeitspflicht freigestellt hat.[28]( Urteil vom 19.05.2009 - 9 AZR 433/08, NZA 2009, 1211 Darüber hinaus muss deutlich werden, in welchem Umfang die Urlaubsansprüche abgegolten werden sollen. Ist diese Konkretisierung nicht hinreichend deutlich, geht dieses zu Lasten des Arbeitgebers.[29]( Urteil vom 15.05.2011- 9 AZR 189/10, NZA 2011, 1032; ) kanzlei@ormanschick.de [Zum Autorenprofil](

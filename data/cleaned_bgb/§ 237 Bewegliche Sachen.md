@@ -1,0 +1,2 @@
+# § 237 Bewegliche Sachen
+Mit einer beweglichen Sache kann Sicherheit nur in Höhe von zwei Dritteln des Schätzungswerts geleistet werden. Sachen, deren Verderb zu besorgen oder deren Aufbewahrung mit besonderen Schwierigkeiten verbunden ist, können zurückgewiesen werden.

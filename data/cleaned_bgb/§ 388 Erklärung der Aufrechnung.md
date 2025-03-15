@@ -1,0 +1,2 @@
+# § 388 Erklärung der Aufrechnung
+Die Aufrechnung erfolgt durch Erklärung gegenüber dem anderen Teil. Die Erklärung ist unwirksam, wenn sie unter einer Bedingung oder einer Zeitbestimmung abgegeben wird.

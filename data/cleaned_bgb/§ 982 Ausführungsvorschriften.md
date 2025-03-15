@@ -1,0 +1,2 @@
+# § 982 Ausführungsvorschriften
+Die in den §§ 980, 981 vorgeschriebene Bekanntmachung erfolgt bei _Reichs_ behörden und _Reichs_ anstalten nach den von dem _Bundesrat,_ in den übrigen Fällen nach den von der Zentralbehörde des _Bundesstaats_ erlassenen Vorschriften.

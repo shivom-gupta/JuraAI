@@ -1,0 +1,6 @@
+# § 720 Vertretung der Gesellschaft
+(1) Zur Vertretung der Gesellschaft sind alle Gesellschafter gemeinsam befugt, es sei denn, der Gesellschaftsvertrag bestimmt etwas anderes.
+(2) Die zur Gesamtvertretung nach Absatz 1 befugten Gesellschafter können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen.
+(3) Die Vertretungsbefugnis der Gesellschafter erstreckt sich auf alle Geschäfte der Gesellschaft. Eine Beschränkung des Umfangs der Vertretungsbefugnis ist Dritten gegenüber unwirksam. Dies gilt insbesondere für die Beschränkung, dass sich die Vertretung nur auf bestimmte Geschäfte oder Arten von Geschäften erstreckt oder dass sie nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll.
+(4) Die Vertretungsbefugnis kann einem Gesellschafter in entsprechender Anwendung von § 715 Absatz 5 ganz oder teilweise entzogen werden.
+(5) Ist der Gesellschaft gegenüber eine Willenserklärung abzugeben, genügt die Abgabe gegenüber einem vertretungsbefugten Gesellschafter.

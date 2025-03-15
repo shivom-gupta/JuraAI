@@ -1,0 +1,2 @@
+# § 2186 Fälligkeit eines Untervermächtnisses oder einer Auflage
+Ist ein Vermächtnisnehmer mit einem Vermächtnis oder einer Auflage beschwert, so ist er zur Erfüllung erst dann verpflichtet, wenn er die Erfüllung des ihm zugewendeten Vermächtnisses zu verlangen berechtigt ist.

@@ -1,0 +1,47 @@
+# § 2329 Anspruch gegen den Beschenkten
+(1) Soweit der Erbe zur Ergänzung des Pflichtteils nicht verpflichtet ist, kann der Pflichtteilsberechtigte von dem Beschenkten die Herausgabe des Geschenks zum Zwecke der Befriedigung wegen des fehlenden Betrags nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung fordern. Ist der Pflichtteilsberechtigte der alleinige Erbe, so steht ihm das gleiche Recht zu.
+(2) Der Beschenkte kann die Herausgabe durch Zahlung des fehlenden Betrags abwenden.
+(3) Unter mehreren Beschenkten haftet der früher Beschenkte nur insoweit, als der später Beschenkte nicht verpflichtet ist.
+#### _Besonderheiten des Pflichtteilsergänzungsanspruchs gegen den Beschenkten_
+[1]( richtet sich der Pflichtteilsergänzungsanspruch (d.h. der Anspruch auf Erhöhung des Pflichtteils wegen lebzeitiger Geschenke des Erblassers gemäß [§ 2325 BGB]( immer gegen den oder die Erben. Das gilt – für viele überraschend - auch dann, wenn der Erbe gar nicht Empfänger des Geschenks war. Das ist für den Erben natürlich stets lästig und für den Beschenkten vorteilhaft.
+**Pflichtteilsergänzungsanspruch nur ausnahmsweise gegen den Beschenkten**
+[2]( drei Konstellationen wollte der Gesetzgeber jedoch den Erben von der Pflichtteilsergänzung verschonen - oder musste es tun, um Wertungswidersprüche zu vermeiden:
+a) Soweit der Erbe (oder die Erben) nach den Regeln über die Beschränkung der Erbenhaftung ([§ 1975 BGB]( seine Haftung auf den Nachlass beschränken kann und der Nachlass zur Befriedigung der Pflichtteilsergänzungsansprüche nicht ausreicht;
+b) Soweit der Erbe (oder die Erben) selbst pflichtteilsberechtigt ist und die Pflichtteilsergänzung aus diesem Grund gemäß [§ 2328 BGB]( verweigern kann;
+c) Soweit ein Alleinerbe pflichtteilsberechtigt ist und das hinterlassene Erbe hinter dem zurückbleibt, was er als Pflichtteilsberechtigter (einschließlich Pflichtteilsergänzung) verlangen könnte ([§ 2326 BGB](
+[§ 2329 BGB]( regelt, dass sich in diesen Fällen der Pflichtteilsergänzungsanspruch ausnahmsweise gegen den Beschenkten richtet.
+**Beispiel:** Die Erblasserin hat 15.000 € hinterlassen und hatte drei Töchter, Anne, Berta und Christine. Anne hat sie als Alleinerbin eingesetzt, Berta schon zu Lebzeiten 45.000 € geschenkt und Christine hat nichts erhalten. Christine verlangt nun von der Alleinerbin ihren Pflichtteil (½ * 1/3 = 1/6 x 15.000 € = 2.500 €), den Anne auch tatsächlich bezahlen muss. Außerdem verlangt sie von der Erbin Anne (!) Pflichtteilsergänzung wegen des Geschenks an Berta, d.h. nochmals 1/6 von 45.000 € = 7.500 €. Anne kann jetzt nach [§ 2328 BGB]( entgegenhalten: Würde ich 7.500 € bezahlen, verbliebe mir selbst nicht mehr der Wert meines Pflichtteils und Pflichtteilsergänzungsanspruchs (insgesamt 10.000 €). Anne muss daher von dem Pflichtteilsergänzungsanspruch der C nur noch 2.500 € bezahlen.
+[§ 2329 BGB]( bewirkt nun, dass Christine (die von der Erbin nur 2.500 € + 2.500 € bekommen hat) sich wegen der „fehlenden“ 5.000 € ihres Pflichtteilsergänzungsanspruchs an die Beschenkte halten kann bzw. muss. Auf diese Weise kann Christine also noch zu ihrem vollen Pflichtteils- und Pflichtteilsergänzungsanspruch kommen.
+**Anspruch gegen den Beschenkten „schwächer“ als gegen den Erben**
+[3]( ist der Anspruch gegen den Beschenkten in zweierlei Hinsicht beschränkt und somit schwächer als der "normale" Pflichtteilsergänzungsanspruch gegen den Erben:
+- Der Beschenkte muss nicht aus seinem eigenen Vermögen etwas bezahlen, sondern „nur“ das Geschenk herausgeben. Hätte also Berta im Beispielsfall einen PKW im Wert von 45.000 € geschenkt bekommen, so müsste sie nur diesen (zum Verkauf) zur Verfügung stellen. Von dem Verkaufserlös würde dann Christine 5.000 € bekommen, und Berta behielte den Rest. Allerdings kann Berta den Verkauf auch verhindern und einfach den geforderten Betrag bezahlen (§ 2329 Abs. 2 BGB).
+- Der Beschenkte kann sich auf „Entreicherung“ berufen: Berta kann also geltend machen, dass sie gestern mit dem Pkw gegen einen Baum gefahren ist und dieser nur noch Schrottwert hat oder dass er durch normale Abnutzung an Wert verloren hat. Läge der entsprechende Restwert in Christines Fall unter 5.000 €, erhielte Christine nur den Restwert. Einzelheiten zur Haftung nach den „Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung“ sind in den [§§ 812 ff.]( insbesondere [§§ 818 ff. BGB]( geregelt.
+Bei dem praktisch häufigen Fall der Grundstücksschenkung spielen diese Gesichtspunkte meistens jedoch keine große Rolle, da Grundstücke normalerweise mit der Zeit an Wert gewinnen.
+**Haftungsreihenfolge und besondere Verjährungsfrist beachten**
+Zwei weitere „Überraschungen“ hält das Gesetz aber in jedem Fall noch bereit:
+* Hatte der Erblasser mehrere Personen beschenkt, so haftet nicht etwa jeder Beschenkte für den sich aus seinem Geschenk ergebenden Ergänzungsanspruch. Das Gesetz folgt im § 2329 Abs. 3 BGB vielmehr dem Grundsatz „den Letzten beißen die Hunde“. Es bestimmt, dass zunächst der zuletzt Beschenkte in Anspruch genommen werden muss. Erst wenn dessen Geschenk nicht zur vollständigen Befriedigung des Pflichtteilsergänzungsanspruchs ausreicht, kommen nacheinander die früher Beschenkten an die Reihe.
+* Für den Anspruch nach [§ 2329 BGB]( gibt es eine eigene Verjährungsvorschrift ([§ 2332 BGB]( die bestimmt, dass der Anspruch viel früher als der Ergänzungsanspruch gegen den Erben, nämlich auf den Tag genau drei Jahre nach dem Todestag, verjährt. Dies gilt selbst dann, wenn der Pflichtteilsberechtigte gar nichts von dem Tod, seiner Enterbung und oder dem Geschenk wusste. Zu Einzelheiten siehe die Kommentierung zu [§ 2332 BGB](  
+**Hinweis für die Praxis:**
+Bei der Geltendmachung von Pflichtteilsergänzungsansprüchen ist also frühzeitig daran zu denken, dass ggf. auch ein Beschenkter in Anspruch genommen werden muss. Die Verjährung kann dabei z.B. auch durch Streitverkündung im Prozess gegen den Erben unterbrochen werden. Auch ein in Anspruch genommener Erbe oder Beschenkter muss sorgfältig prüfen, ob er wirklich haftet oder die Pflicht auf den Beschenkten abwälzen kann.
+[ Rückfrage an die Autorin ]( [ Rückfrage an die Autorin ](
+## Expertenhinweise
+(für Juristen)
+### 1) Allgemeines
+[4]( 2329 BGB]( schafft einen subsidiären Anspruch des Pflichtteilsberechtigten gegen den Beschenkten, dessen Verpflichtung zur Pflichtteilsergänzung erst dort beginnt, wo die des Erben endet. Folgerichtig kann auch dem Alleinerben ein Pflichtteilsergänzungsanspruch gegen den Beschenkten zustehen (Abs. 1 S. 2), um seinen Ergänzungsanspruch zu verwirklichen.
+Die Norm dient damit insbesondere der Verwirklichung eines konsistenten Pflichtteils(ergänzungs)rechts, da sie den Ergänzungsanspruch auch dann verwirklicht, wenn der Nachlass durch lebzeitige Schenkungen ausgehöhlt wurde.
+[5]( Haftung des Beschenkten ist doppelt beschränkt, da sie nur soweit eingreift, wie der Erbe nicht verpflichtet ist und sich auf die Herausgabe des Geschenks nach Bereicherungsvorschriften beschränkt. Die Herausgabe kann durch Zahlung des Fehlbetrages abgewendet werden (Abs. 2). Die Beschenkten haften in der Reihenfolge ihrer Beschenkung, der zuletzt Beschenkte zuerst (Abs. 3).
+### 2) Definitionen
+[6]( des Anspruchs** ist der Pflichtteilsberechtigte, also zunächst der enterbte gesetzliche Erbe, soweit er nach [§ 2303]( pflichtteilsberechtigt ist und den Anspruch nicht durch Pflichtteilsverzicht, Pflichtteilsentziehung oder Pflichtteilsunwürdigkeit verloren hat.[1]( 5. Aufl. 2018, § 2329 BGB Rn. 3 Absatz 1 S.
+[Weiterlesen >> ](
+### 3) Abgrenzungen, Kasuistik
+Umstritten ist, ob sich der Beschenkte hinsichtlich seiner Haftung auf die Abschmelzungsregeln des [§ 2325 Abs. 3 BGB]( berufen kann.[9]( wohl, ohne nähere Erörterung BGH vom 10.11.1982 – Az. Iva ZR 29/81, NJW 1983, 1485, dort Ziff. 3 b): „Der durch § 2329 Abs. 3 BGB normierten Rangordnung der Haftung mehrerer Beschenkter liegt der Gedanke zugrunde, dass früher vollzogene Schenkungen des Erblassers die berechtigten Erwartungen des Pflichtteilsberechtigten im allgemeinen weniger einschneidend beeinträchtigen als die späteren; jedenfalls nach Ablauf der Frist des § 2325 Abs. 3 BGB sollen sie dem Beschenkten erhalten bleiben."
+[Weiterlesen >> ](
+### 4) Literaturstimmen
+[11]( der Rechtsprechung noch nicht entschieden, in der Literatur allerdings umstritten ist, ob der Anspruch gegen den Beschenkten auch gegeben sein soll, wenn der Erbe zahlungsunfähig ist.[15]( eine Anwendbarkeit Staudinger Olshausen, 2015 § 2329 Rn. 10, dagegen die wohl h.M. MüKo/Lange § 2329, 8. Aufl. 2020 Rn. 8
+### 5) Häufige Paragraphenketten
+**_[12]( gegen den Beschenkten wegen eines eigenen Pflichtteilsergänzungsanspruchs des Erben:_** §§ 2325, 2328, 2329 BGB
+** _Anspruch gegen den Beschenkten wegen Beschränkung der Haftung des Erben auf den Nachlass:_** §§ 2325, 1975 (bei Dürftigkeit: 1990), 2329 BGB
+** _Anspruch des Alleinerben gegen den Beschenkten:_** §§ 2329 Abs. 1 S. 2, 2325, 2326 BGB
+### 6) Prozessuales
+[13]( Beschenkter ist dem pflichtteilsberechtigten Nichterben in entsprechender Anwendung von [§ 2314 Abs. 1 S. 1 BGB]( **auskunftspflichtig,[ 16]( vom 01.03.1971, Az. III RT 37/68 NJW 1971, 842 **auch hinsichtlich solcher Zuwendungen, deren Umstände es nahelegen, dass zumindest eine teilweise Schenkung gegeben ist.[17]( vom 04.06.2014 – IV ZB 02/14, NJW-RR 2014, 1102 Ein Anspruch auf **Wertermittlung** gegen den Beschenkten besteht dagegen nicht.
+[Weiterlesen >> ](

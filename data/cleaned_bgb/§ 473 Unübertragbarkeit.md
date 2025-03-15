@@ -1,0 +1,2 @@
+# § 473 Unübertragbarkeit
+Das Vorkaufsrecht ist nicht übertragbar und geht nicht auf die Erben des Berechtigten über, sofern nicht ein anderes bestimmt ist. Ist das Recht auf eine bestimmte Zeit beschränkt, so ist es im Zweifel vererblich.

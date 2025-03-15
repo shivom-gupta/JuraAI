@@ -1,0 +1,3 @@
+# § 1565 Scheitern der Ehe
+(1) Eine Ehe kann geschieden werden, wenn sie gescheitert ist. Die Ehe ist gescheitert, wenn die Lebensgemeinschaft der Ehegatten nicht mehr besteht und nicht erwartet werden kann, dass die Ehegatten sie wiederherstellen.
+(2) Leben die Ehegatten noch nicht ein Jahr getrennt, so kann die Ehe nur geschieden werden, wenn die Fortsetzung der Ehe für den Antragsteller aus Gründen, die in der Person des anderen Ehegatten liegen, eine unzumutbare Härte darstellen würde.

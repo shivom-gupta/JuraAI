@@ -1,0 +1,2 @@
+# § 1436 Verwaltung durch einen Betreuer
+Fällt die Verwaltung des Gesamtguts in den Aufgabenkreis des Betreuers eines Ehegatten, so hat der Betreuer diesen in den Rechten und Pflichten zu vertreten, die sich aus der Verwaltung des Gesamtguts ergeben. Dies gilt auch dann, wenn der andere Ehegatte zum Betreuer bestellt ist.

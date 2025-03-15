@@ -1,0 +1,2 @@
+# § 763 Lotterie- und Ausspielvertrag
+Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls findet die Vorschrift des § 762 Anwendung.

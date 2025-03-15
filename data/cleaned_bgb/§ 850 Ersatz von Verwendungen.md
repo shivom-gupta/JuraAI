@@ -1,0 +1,2 @@
+# § 850 Ersatz von Verwendungen
+Macht der zur Herausgabe einer entzogenen Sache Verpflichtete Verwendungen auf die Sache, so stehen ihm dem Verletzten gegenüber die Rechte zu, die der Besitzer dem Eigentümer gegenüber wegen Verwendungen hat.

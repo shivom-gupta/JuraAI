@@ -1,0 +1,2 @@
+# § 715a Notgeschäftsführungsbefugnis
+Sind alle geschäftsführungsbefugten Gesellschafter verhindert, nach Maßgabe von § 715 Absatz 3 bei einem Geschäft mitzuwirken, kann jeder Gesellschafter das Geschäft vornehmen, wenn mit dem Aufschub Gefahr für die Gesellschaft oder das Gesellschaftsvermögen verbunden ist. Eine Vereinbarung im Gesellschaftsvertrag, welche dieses Recht ausschließt, ist unwirksam.

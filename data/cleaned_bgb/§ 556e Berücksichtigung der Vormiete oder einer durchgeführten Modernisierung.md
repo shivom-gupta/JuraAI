@@ -1,0 +1,15 @@
+# § 556e Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung
+(1) Ist die Miete, die der vorherige Mieter zuletzt schuldete (Vormiete), höher als die nach § 556d Absatz 1 zulässige Miete, so darf eine Miete bis zur Höhe der Vormiete vereinbart werden. Bei der Ermittlung der Vormiete unberücksichtigt bleiben Mietminderungen sowie solche Mieterhöhungen, die mit dem vorherigen Mieter innerhalb des letzten Jahres vor Beendigung des Mietverhältnisses vereinbart worden sind.
+(2) Hat der Vermieter in den letzten drei Jahren vor Beginn des Mietverhältnisses Modernisierungsmaßnahmen im Sinne des § 555b durchgeführt, so darf die nach § 556d Absatz 1 zulässige Miete um den Betrag überschritten werden, der sich bei einer Mieterhöhung nach § 559 Absatz 1 bis 3a und § 559a Absatz 1 bis 4 ergäbe. Bei der Berechnung nach Satz 1 ist von der ortsüblichen Vergleichsmiete (§ 558 Absatz 2) auszugehen, die bei Beginn des Mietverhältnisses ohne Berücksichtigung der Modernisierung anzusetzen wäre.
+## Expertenhinweise
+(für Juristen)
+### 1) Allgemeines
+**Expertenhinweise**
+[2]( 556 e I S. 1 BGB enthält aus Gründen des Bestandsschutzes und der Verhältnismäßigkeit des Eingriffs eine erste preisrechtliche Ausnahme zu der in § 556 d I BGB geregelten Mietpreisbremse:
+Der Vermieter darf bei einer Wiedervermietung die Miete, „die der vorherige Mieter zuletzt schuldete (Vormiete)“, grundsätzlich weiterverlangen, auch wenn diese die 110 %-Grenze übersteigt.
+[Weiterlesen >> ](
+### 2) Literaturstimmen
+In der mietrechtlichen Literatur befassen sich mit der Mietpreisbremse u.a. Abramenko, Die Mietpreisbremse, 2015; Blank, Die Regelungen zur Mietpreisbremse im Entwurf zum Mietrechtsnovellierungsgesetz, WuM 2014, 641 ff.; Börstinghaus, Die Begrenzung der Wiedervermietungsmiete für Wohnraum, NJW 2015, 1553 ff.; Flatow, Die höchstzulässige Miete, WuM 2015, 191 ff.; Fleidl, Die Rückforderung überzahlter Miete bei Verstößen gegen die Mietpreisbremse, WuM 2015, 212 ff.; Herlitz, Mietpreisbremse und Verfassungsrecht, ZMR 2014, 262 ff.; Hinz, Die Mietpreisbremse - Erste Überlegungen aus dem Blickwinkel der gerichtlichen Praxis, ZMR 2014, 593 ff.
+### 3) Prozessuales
+[8]( den Nachmieter werden sich in der Praxis und im Prozess Probleme dadurch eröffnen, dass dieser den ursprünglichen Zustand der Wohnung nicht kannte und deshalb letzten Endes nicht bewerten kann, ob die vom Mieter geltend gemachten Kosten sich auf (zu berücksichtigende) Modernisierungs- oder (nicht zu berücksichtigende) Erhaltungsmaßnahmen beziehen. Der Vermieter muss über die Modernisierungsmaßnahmen, ihre Kosten, ihre Aufteilung auf eine Mehrzahl von Wohnungen und eventuelle Drittmittel Auskunft erteilen.
+[9]( trifft auch im Prozess die Beweislast für die Voraussetzungen der Ausnahmetatbestände in §§ 556e I, II BGB.

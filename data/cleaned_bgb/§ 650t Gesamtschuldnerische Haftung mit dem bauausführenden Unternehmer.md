@@ -1,0 +1,2 @@
+# § 650t Gesamtschuldnerische Haftung mit dem bauausführenden Unternehmer
+Nimmt der Besteller den Unternehmer wegen eines Überwachungsfehlers in Anspruch, der zu einem Mangel an dem Bauwerk oder an der Außenanlage geführt hat, kann der Unternehmer die Leistung verweigern, wenn auch der ausführende Bauunternehmer für den Mangel haftet und der Besteller dem bauausführenden Unternehmer noch nicht erfolglos eine angemessene Frist zur Nacherfüllung bestimmt hat.

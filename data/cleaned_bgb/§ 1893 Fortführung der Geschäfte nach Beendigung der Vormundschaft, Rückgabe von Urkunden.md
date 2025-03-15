@@ -1,0 +1,3 @@
+# § 1893 Fortführung der Geschäfte nach Beendigung der Vormundschaft, Rückgabe von Urkunden
+(1) Im Falle der Beendigung der Vormundschaft oder des vormundschaftlichen Amts finden die Vorschriften der §§ 1698a, 1698b entsprechende Anwendung.
+(2) Der Vormund hat nach Beendigung seines Amts die Bestallung dem Familiengericht zurückzugeben. In den Fällen der §§ 1791a, 1791b ist der Beschluss des Familiengerichts, im Falle des § 1791c die Bescheinigung über den Eintritt der Vormundschaft zurückzugeben.

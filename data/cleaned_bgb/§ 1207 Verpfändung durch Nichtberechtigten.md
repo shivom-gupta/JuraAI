@@ -1,0 +1,2 @@
+# § 1207 Verpfändung durch Nichtberechtigten
+Gehört die Sache nicht dem Verpfänder, so finden auf die Verpfändung die für den Erwerb des Eigentums geltenden Vorschriften der §§ 932, 934, 935 entsprechende Anwendung.

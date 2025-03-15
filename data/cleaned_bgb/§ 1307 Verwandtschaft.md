@@ -1,0 +1,2 @@
+# § 1307 Verwandtschaft
+Eine Ehe darf nicht geschlossen werden zwischen Verwandten in gerader Linie sowie zwischen vollbürtigen und halbbürtigen Geschwistern. Dies gilt auch, wenn das Verwandtschaftsverhältnis durch Annahme als Kind erloschen ist.

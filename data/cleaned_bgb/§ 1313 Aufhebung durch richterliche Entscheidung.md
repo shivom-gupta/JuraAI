@@ -1,0 +1,2 @@
+# § 1313 Aufhebung durch richterliche Entscheidung
+Eine Ehe kann nur durch richterliche Entscheidung auf Antrag aufgehoben werden. Die Ehe ist mit der Rechtskraft der Entscheidung aufgelöst. Die Voraussetzungen, unter denen die Aufhebung begehrt werden kann, ergeben sich aus den folgenden Vorschriften.

@@ -1,0 +1,2 @@
+# § 2134 Eigennützige Verwendung
+Hat der Vorerbe einen Erbschaftsgegenstand für sich verwendet, so ist er nach dem Eintritt der Nacherbfolge dem Nacherben gegenüber zum Ersatz des Wertes verpflichtet. Eine weitergehende Haftung wegen Verschuldens bleibt unberührt.

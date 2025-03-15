@@ -1,0 +1,2 @@
+# § 1227 Schutz des Pfandrechts
+Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf die Ansprüche des Pfandgläubigers die für die Ansprüche aus dem Eigentum geltenden Vorschriften entsprechende Anwendung.

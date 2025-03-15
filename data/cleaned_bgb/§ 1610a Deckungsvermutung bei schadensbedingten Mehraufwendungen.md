@@ -1,0 +1,2 @@
+# § 1610a Deckungsvermutung bei schadensbedingten Mehraufwendungen
+Werden für Aufwendungen infolge eines Körper- oder Gesundheitsschadens Sozialleistungen in Anspruch genommen, wird bei der Feststellung eines Unterhaltsanspruchs vermutet, dass die Kosten der Aufwendungen nicht geringer sind als die Höhe dieser Sozialleistungen.

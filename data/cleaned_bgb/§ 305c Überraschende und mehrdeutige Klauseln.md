@@ -1,0 +1,3 @@
+# § 305c Überraschende und mehrdeutige Klauseln
+(1) Bestimmungen in Allgemeinen Geschäftsbedingungen, die nach den Umständen, insbesondere nach dem äußeren Erscheinungsbild des Vertrags, so ungewöhnlich sind, dass der Vertragspartner des Verwenders mit ihnen nicht zu rechnen braucht, werden nicht Vertragsbestandteil.
+(2) Zweifel bei der Auslegung Allgemeiner Geschäftsbedingungen gehen zu Lasten des Verwenders.

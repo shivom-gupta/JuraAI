@@ -1,0 +1,2 @@
+# § 2014 Dreimonatseinrede
+Der Erbe ist berechtigt, die Berichtigung einer Nachlassverbindlichkeit bis zum Ablauf der ersten drei Monate nach der Annahme der Erbschaft, jedoch nicht über die Errichtung des Inventars hinaus, zu verweigern.

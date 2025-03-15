@@ -1,0 +1,2 @@
+# § 1059e Anspruch auf Einräumung des Nießbrauchs
+Steht ein Anspruch auf Einräumung eines Nießbrauchs einer juristischen Person oder einer rechtsfähigen Personengesellschaft zu, so gelten die Vorschriften der §§ 1059a bis 1059d entsprechend.

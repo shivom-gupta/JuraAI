@@ -1,0 +1,2 @@
+# § 590a Vertragswidriger Gebrauch
+Macht der Pächter von der Pachtsache einen vertragswidrigen Gebrauch und setzt er den Gebrauch ungeachtet einer Abmahnung des Verpächters fort, so kann der Verpächter auf Unterlassung klagen.

@@ -1,0 +1,2 @@
+# § 327t Anwendungsbereich
+Auf Verträge zwischen Unternehmern, die der Bereitstellung digitaler Produkte gemäß der nach den §§ 327 und 327a vom Anwendungsbereich des Untertitels 1 erfassten Verbraucherverträge dienen, sind ergänzend die Vorschriften dieses Untertitels anzuwenden.

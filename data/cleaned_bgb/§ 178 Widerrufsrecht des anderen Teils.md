@@ -1,0 +1,2 @@
+# § 178 Widerrufsrecht des anderen Teils
+Bis zur Genehmigung des Vertrags ist der andere Teil zum Widerruf berechtigt, es sei denn, dass er den Mangel der Vertretungsmacht bei dem Abschluss des Vertrags gekannt hat. Der Widerruf kann auch dem Vertreter gegenüber erklärt werden.

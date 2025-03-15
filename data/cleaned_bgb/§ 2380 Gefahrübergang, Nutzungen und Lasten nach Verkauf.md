@@ -1,0 +1,2 @@
+# § 2380 Gefahrübergang, Nutzungen und Lasten nach Verkauf
+Der Käufer trägt von dem Abschluss des Kaufs an die Gefahr des zufälligen Untergangs und einer zufälligen Verschlechterung der Erbschaftsgegenstände. Von diesem Zeitpunkt an gebühren ihm die Nutzungen und trägt er die Lasten.

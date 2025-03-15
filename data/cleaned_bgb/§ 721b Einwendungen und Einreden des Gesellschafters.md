@@ -1,0 +1,3 @@
+# § 721b Einwendungen und Einreden des Gesellschafters
+(1) Wird ein Gesellschafter wegen einer Verbindlichkeit der Gesellschaft in Anspruch genommen, kann er Einwendungen und Einreden, die nicht in seiner Person begründet sind, insoweit geltend machen, als sie von der Gesellschaft erhoben werden können.
+(2) Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange der Gesellschaft in Ansehung der Verbindlichkeit das Recht zur Anfechtung oder Aufrechnung oder ein anderes Gestaltungsrecht, dessen Ausübung die Gesellschaft ihrerseits zur Leistungsverweigerung berechtigen würde, zusteht.

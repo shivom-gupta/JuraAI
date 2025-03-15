@@ -1,0 +1,2 @@
+# § 814 Kenntnis der Nichtschuld
+Das zum Zwecke der Erfüllung einer Verbindlichkeit Geleistete kann nicht zurückgefordert werden, wenn der Leistende gewusst hat, dass er zur Leistung nicht verpflichtet war, oder wenn die Leistung einer sittlichen Pflicht oder einer auf den Anstand zu nehmenden Rücksicht entsprach.

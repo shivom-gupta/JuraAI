@@ -1,0 +1,5 @@
+# § 1908d Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
+(1) Die Betreuung ist aufzuheben, wenn ihre Voraussetzungen wegfallen. Fallen diese Voraussetzungen nur für einen Teil der Aufgaben des Betreuers weg, so ist dessen Aufgabenkreis einzuschränken.
+(2) Ist der Betreuer auf Antrag des Betreuten bestellt, so ist die Betreuung auf dessen Antrag aufzuheben, es sei denn, dass eine Betreuung von Amts wegen erforderlich ist. Den Antrag kann auch ein Geschäftsunfähiger stellen. Die Sätze 1 und 2 gelten für die Einschränkung des Aufgabenkreises entsprechend.
+(3) Der Aufgabenkreis des Betreuers ist zu erweitern, wenn dies erforderlich wird. Die Vorschriften über die Bestellung des Betreuers gelten hierfür entsprechend.
+(4) Für den Einwilligungsvorbehalt gelten die Absätze 1 und 3 entsprechend.

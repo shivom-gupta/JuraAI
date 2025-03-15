@@ -1,0 +1,2 @@
+# § 485 Widerrufsrecht
+Dem Verbraucher steht bei einem Teilzeit-Wohnrechtevertrag, einem Vertrag über ein langfristiges Urlaubsprodukt, einem Vermittlungsvertrag oder einem Tauschsystemvertrag ein Widerrufsrecht nach § 355 zu.

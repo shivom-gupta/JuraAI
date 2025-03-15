@@ -1,0 +1,2 @@
+# § 984 Schatzfund
+Wird eine Sache, die so lange verborgen gelegen hat, dass der Eigentümer nicht mehr zu ermitteln ist (Schatz), entdeckt und infolge der Entdeckung in Besitz genommen, so wird das Eigentum zur Hälfte von dem Entdecker, zur Hälfte von dem Eigentümer der Sache erworben, in welcher der Schatz verborgen war.

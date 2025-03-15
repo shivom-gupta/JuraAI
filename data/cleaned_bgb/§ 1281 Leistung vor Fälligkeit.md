@@ -1,0 +1,2 @@
+# § 1281 Leistung vor Fälligkeit
+Der Schuldner kann nur an den Pfandgläubiger und den Gläubiger gemeinschaftlich leisten. Jeder von beiden kann verlangen, dass an sie gemeinschaftlich geleistet wird; jeder kann statt der Leistung verlangen, dass die geschuldete Sache für beide hinterlegt oder, wenn sie sich nicht zur Hinterlegung eignet, an einen gerichtlich zu bestellenden Verwahrer abgeliefert wird.

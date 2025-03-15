@@ -1,0 +1,2 @@
+# § 127a Gerichtlicher Vergleich
+Die notarielle Beurkundung wird bei einem gerichtlichen Vergleich durch die Aufnahme der Erklärungen in ein nach den Vorschriften der Zivilprozessordnung errichtetes Protokoll ersetzt.

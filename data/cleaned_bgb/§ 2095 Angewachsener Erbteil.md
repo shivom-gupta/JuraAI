@@ -1,0 +1,2 @@
+# § 2095 Angewachsener Erbteil
+Der durch Anwachsung einem Erben anfallende Erbteil gilt in Ansehung der Vermächtnisse und Auflagen, mit denen dieser Erbe oder der wegfallende Erbe beschwert ist, sowie in Ansehung der Ausgleichungspflicht als besonderer Erbteil.

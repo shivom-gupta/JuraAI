@@ -1,0 +1,2 @@
+# § 1908a Vorsorgliche Betreuerbestellung und Anordnung des Einwilligungsvorbehalts für Minderjährige
+Maßnahmen nach den §§ 1896, 1903 können auch für einen Minderjährigen, der das 17. Lebensjahr vollendet hat, getroffen werden, wenn anzunehmen ist, dass sie bei Eintritt der Volljährigkeit erforderlich werden. Die Maßnahmen werden erst mit dem Eintritt der Volljährigkeit wirksam.

@@ -1,0 +1,2 @@
+# § 2093 Gemeinschaftlicher Erbteil
+Sind einige von mehreren Erben auf einen und denselben Bruchteil der Erbschaft eingesetzt (gemeinschaftlicher Erbteil), so finden in Ansehung des gemeinschaftlichen Erbteils die Vorschriften der §§ 2089 bis 2092 entsprechende Anwendung.

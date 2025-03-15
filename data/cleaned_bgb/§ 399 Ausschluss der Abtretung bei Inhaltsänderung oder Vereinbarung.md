@@ -1,0 +1,2 @@
+# § 399 Ausschluss der Abtretung bei Inhaltsänderung oder Vereinbarung
+Eine Forderung kann nicht abgetreten werden, wenn die Leistung an einen anderen als den ursprünglichen Gläubiger nicht ohne Veränderung ihres Inhalts erfolgen kann oder wenn die Abtretung durch Vereinbarung mit dem Schuldner ausgeschlossen ist.

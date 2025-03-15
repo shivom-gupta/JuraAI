@@ -1,0 +1,2 @@
+# § 2195 Verhältnis von Auflage und Zuwendung
+Die Unwirksamkeit einer Auflage hat die Unwirksamkeit der unter der Auflage gemachten Zuwendung nur zur Folge, wenn anzunehmen ist, dass der Erblasser die Zuwendung nicht ohne die Auflage gemacht haben würde.

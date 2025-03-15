@@ -1,0 +1,2 @@
+# § 29 Notbestellung durch Amtsgericht
+Soweit die erforderlichen Mitglieder des Vorstands fehlen, sind sie in dringenden Fällen für die Zeit bis zur Behebung des Mangels auf Antrag eines Beteiligten von dem Amtsgericht zu bestellen, das für den Bezirk, in dem der Verein seinen Sitz hat, das Vereinsregister führt.

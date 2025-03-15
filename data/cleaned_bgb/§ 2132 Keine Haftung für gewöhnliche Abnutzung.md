@@ -1,0 +1,2 @@
+# § 2132 Keine Haftung für gewöhnliche Abnutzung
+Veränderungen oder Verschlechterungen von Erbschaftssachen, die durch ordnungsmäßige Benutzung herbeigeführt werden, hat der Vorerbe nicht zu vertreten.

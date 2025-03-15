@@ -1,0 +1,2 @@
+# § 1102 Befreiung des Käufers
+Verliert der Käufer oder sein Rechtsnachfolger infolge der Geltendmachung des Vorkaufsrechts das Eigentum, so wird der Käufer, soweit der von ihm geschuldete Kaufpreis noch nicht berichtigt ist, von seiner Verpflichtung frei; den berichtigten Kaufpreis kann er nicht zurückfordern.

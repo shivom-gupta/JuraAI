@@ -1,0 +1,12 @@
+# § 1926 Gesetzliche Erben dritter Ordnung
+(1) Gesetzliche Erben der dritten Ordnung sind die Großeltern des Erblassers und deren Abkömmlinge.
+(2) Leben zur Zeit des Erbfalls die Großeltern, so erben sie allein und zu gleichen Teilen.
+(3) Lebt zur Zeit des Erbfalls von einem Großelternpaar der Großvater oder die Großmutter nicht mehr, so treten an die Stelle des Verstorbenen dessen Abkömmlinge. Sind Abkömmlinge nicht vorhanden, so fällt der Anteil des Verstorbenen dem anderen Teil des Großelternpaars und, wenn dieser nicht mehr lebt, dessen Abkömmlingen zu.
+(4) Lebt zur Zeit des Erbfalls ein Großelternpaar nicht mehr und sind Abkömmlinge der Verstorbenen nicht vorhanden, so erben die anderen Großeltern oder ihre Abkömmlinge allein.
+(5) Soweit Abkömmlinge an die Stelle ihrer Eltern oder ihrer Voreltern treten, finden die für die Beerbung in der ersten Ordnung geltenden Vorschriften Anwendung.
+## Expertenhinweise
+(für Juristen)
+### Allgemeines
+[1]( den gleichen Parentelgrundsätzen wie schon bei §§ 1924 und 1925 bilden nunmehr die Großeltern des Erblassers und deren Abkömmlinge (die nicht bereits Erben höherer Ordnungen waren) die dritte Ordnung.
+[2]( II erben die Großeltern (wie dies bereits bei den Eltern in § 1925 II wortidentisch der Fall war) allein und zu gleichen Teilen. An die Stelle eines verstorbenen Großelternteils treten dessen Kinder (III S. 1), also Onkel und Tanten des Erblassers und deren Abkömmlinge (Cousins und Cousinen). Auch für die Erben dritter Ordnung gilt § 1930, wonach sie durch Erben höherer Ordnungen (1924,1925) ausgeschlossen werden. Nach § 2303 sind Erben dritter Ordnung auch keine Pflichtteilsberechtigte, so dass sie bei Erwähnung auch nur eines anderen (auch nichtfamiliären) Erben im Testament des Erblassers nicht erben.
+[3]( Ehegatte des Erblassers erbt neben den Großeltern nur zu 1/2 (1931 I), wobei sich im Falle einer Zugewinngemeinschaft sein Anteil um 1/4 auf 3/4 erhöht (1931 I, 3; 1371 I). Erst gegenüber den Abkömmlingen der verstorbenen Großeltern erbt der Ehegatte zu 100 %. Immerhin ist das Erbrecht des überlebenden Ehegatten so stark, dass verbleibende Onkel und Tanten sowie deren Abkömmlinge keinen Anteil mehr erhalten (1931 I 2).

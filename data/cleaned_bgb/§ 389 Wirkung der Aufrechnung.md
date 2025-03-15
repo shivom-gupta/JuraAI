@@ -1,0 +1,2 @@
+# § 389 Wirkung der Aufrechnung
+Die Aufrechnung bewirkt, dass die Forderungen, soweit sie sich decken, als in dem Zeitpunkt erloschen gelten, in welchem sie zur Aufrechnung geeignet einander gegenübergetreten sind.

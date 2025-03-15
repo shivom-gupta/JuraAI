@@ -1,0 +1,3 @@
+# § 731 Kündigung der Gesellschaft
+(1) Ein Gesellschafter kann die Gesellschaft jederzeit aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die Fortsetzung der Gesellschaft nicht zuzumuten ist. Ein wichtiger Grund liegt insbesondere vor, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
+(2) Eine Vereinbarung im Gesellschaftsvertrag, welche das Kündigungsrecht ausschließt oder dieser Vorschrift zuwider beschränkt, ist unwirksam.

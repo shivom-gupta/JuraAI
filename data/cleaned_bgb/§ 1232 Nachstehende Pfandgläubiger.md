@@ -1,0 +1,2 @@
+# § 1232 Nachstehende Pfandgläubiger
+Der Pfandgläubiger ist nicht verpflichtet, einem ihm im Range nachstehenden Pfandgläubiger das Pfand zum Zwecke des Verkaufs herauszugeben. Ist er nicht im Besitz des Pfandes, so kann er, sofern er nicht selbst den Verkauf betreibt, dem Verkauf durch einen nachstehenden Pfandgläubiger nicht widersprechen.

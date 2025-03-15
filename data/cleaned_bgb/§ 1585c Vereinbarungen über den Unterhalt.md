@@ -1,0 +1,4 @@
+# § 1585c Vereinbarungen über den Unterhalt
+Die Ehegatten können über die Unterhaltspflicht für die Zeit nach der Scheidung Vereinbarungen treffen. Eine Vereinbarung, die vor der Rechtskraft der Scheidung getroffen wird, bedarf der notariellen Beurkundung. § 127a findet auch auf eine Vereinbarung Anwendung, die in einem Verfahren in Ehesachen vor dem Prozessgericht protokolliert wird.
+## Expertenhinweise
+(für Juristen)

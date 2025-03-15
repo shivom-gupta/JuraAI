@@ -1,0 +1,2 @@
+# § 2361 Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
+Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn das Nachlassgericht einzuziehen. Mit der Einziehung wird der Erbschein kraftlos.

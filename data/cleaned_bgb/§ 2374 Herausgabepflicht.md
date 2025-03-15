@@ -1,0 +1,2 @@
+# § 2374 Herausgabepflicht
+Der Verkäufer ist verpflichtet, dem Käufer die zur Zeit des Verkaufs vorhandenen Erbschaftsgegenstände mit Einschluss dessen herauszugeben, was er vor dem Verkauf auf Grund eines zur Erbschaft gehörenden Rechts oder als Ersatz für die Zerstörung, Beschädigung oder Entziehung eines Erbschaftsgegenstands oder durch ein Rechtsgeschäft erlangt hat, das sich auf die Erbschaft bezog.

@@ -1,0 +1,2 @@
+# § 327g Rechtsmangel
+Das digitale Produkt ist frei von Rechtsmängeln, wenn der Verbraucher es gemäß den subjektiven oder objektiven Anforderungen nach § 327e Absatz 2 und 3 nutzen kann, ohne Rechte Dritter zu verletzen.

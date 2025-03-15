@@ -1,0 +1,2 @@
+# § 1642 Anlegung von Geld
+Die Eltern haben das ihrer Verwaltung unterliegende Geld des Kindes nach den Grundsätzen einer wirtschaftlichen Vermögensverwaltung anzulegen, soweit es nicht zur Bestreitung von Ausgaben bereitzuhalten ist.

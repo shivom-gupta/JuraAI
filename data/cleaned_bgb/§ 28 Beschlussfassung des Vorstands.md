@@ -1,0 +1,2 @@
+# § 28 Beschlussfassung des Vorstands
+Bei einem Vorstand, der aus mehreren Personen besteht, erfolgt die Beschlussfassung nach den für die Beschlüsse der Mitglieder des Vereins geltenden Vorschriften der §§ 32 und 34.

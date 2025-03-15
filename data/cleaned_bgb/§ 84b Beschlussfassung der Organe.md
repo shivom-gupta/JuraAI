@@ -1,0 +1,2 @@
+# § 84b Beschlussfassung der Organe
+Besteht ein Organ aus mehreren Mitgliedern, erfolgt die Beschlussfassung entsprechend § 32, wenn in der Satzung nichts Abweichendes geregelt ist. Ein Organmitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits zwischen ihm und der Stiftung betrifft.

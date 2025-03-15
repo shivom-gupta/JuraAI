@@ -1,0 +1,2 @@
+# § 21 Nicht wirtschaftlicher Verein
+Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist, erlangt Rechtsfähigkeit durch Eintragung in das Vereinsregister des zuständigen Amtsgerichts.

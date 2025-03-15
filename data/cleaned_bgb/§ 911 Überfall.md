@@ -1,0 +1,2 @@
+# § 911 Überfall
+Früchte, die von einem Baume oder einem Strauche auf ein Nachbargrundstück hinüberfallen, gelten als Früchte dieses Grundstücks. Diese Vorschrift findet keine Anwendung, wenn das Nachbargrundstück dem öffentlichen Gebrauch dient.

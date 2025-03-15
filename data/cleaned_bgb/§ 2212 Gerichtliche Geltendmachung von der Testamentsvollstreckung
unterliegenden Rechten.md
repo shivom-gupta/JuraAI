@@ -1,0 +1,2 @@
+# § 2212 Gerichtliche Geltendmachung von der Testamentsvollstreckung unterliegenden Rechten
+Ein der Verwaltung des Testamentsvollstreckers unterliegendes Recht kann nur von dem Testamentsvollstrecker gerichtlich geltend gemacht werden.

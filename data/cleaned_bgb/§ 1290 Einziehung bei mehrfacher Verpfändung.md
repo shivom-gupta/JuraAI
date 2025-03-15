@@ -1,0 +1,2 @@
+# § 1290 Einziehung bei mehrfacher Verpfändung
+Bestehen mehrere Pfandrechte an einer Forderung, so ist zur Einziehung nur derjenige Pfandgläubiger berechtigt, dessen Pfandrecht den übrigen Pfandrechten vorgeht.

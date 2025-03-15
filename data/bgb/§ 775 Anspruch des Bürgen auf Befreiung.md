@@ -1,0 +1,65 @@
+  * [Jurist. Stellenmarkt](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</job-board> "Jurist. Stellenmarkt")
+  * [Autorenverzeichnis](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Autorenverzeichnis> "Autorenverzeichnis")
+  * [Kontakt](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Kontakt>)
+  * [Anmelden](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/<#login> "show login form") [Anmelden](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/<#> "hide login form") Username Password
+[Forgot your password?](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</user/forgotpassword>) Anmelden 
+
+
+[![BGB Online Kommentar](https://bgb.kommentar.de/extension/bgb/design/bgb/images/logo.png)](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</> "BGB Online Kommentar")
+Suchen
+Navigation
+  * [Allgemeiner Teil](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-1>)
+  * [Recht der Schuldverhältnisse](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2>)
+  * [Sachenrecht](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-3>)
+  * [Familienrecht](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-4>)
+  * [Erbrecht](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-5>)
+
+
+  * [Der online BGB-Kommentar](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</>) »
+  * [Buch 2](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2>) »
+  * [Abschnitt 8](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8>) »
+  * [Titel 20](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20>) »
+  * § 775 Anspruch des Bürgen auf Befreiung 
+  * Stand: 12.01.2025 (Gesetz) ; 26.01.2017 (Kommentierung) 
+
+
+![](https://vg01.met.vgwort.de/na/1c9909529ead4f509072c06d9081a7d5)
+Schliessen 
+## Artikelübersicht
+  * [ § 765 Vertragstypische Pflichten bei der Bürgschaft ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Vertragstypische-Pflichten-bei-der-Buergschaft>)
+  * [ § 766 Schriftform der Bürgschaftserklärung ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Schriftform-der-Buergschaftserklaerung>)
+  * [ § 767 Umfang der Bürgschaftsschuld ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Umfang-der-Buergschaftsschuld>)
+  * [ § 768 Einreden des Bürgen ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Einreden-des-Buergen>)
+  * [ § 769 Mitbürgschaft ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Mitbuergschaft>)
+  * [ § 770 Einreden der Anfechtbarkeit und der Aufrechenbarkeit ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Einreden-der-Anfechtbarkeit-und-der-Aufrechenbarkeit>)
+  * [ § 771 Einrede der Vorausklage ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Einrede-der-Vorausklage>)
+  * [ § 772 Vollstreckungs- und Verwertungspflicht des Gläubigers ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Vollstreckungs-und-Verwertungspflicht-des-Glaeubigers>)
+  * [ § 773 Ausschluss der Einrede der Vorausklage ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Ausschluss-der-Einrede-der-Vorausklage>)
+  * [ § 774 Gesetzlicher Forderungsübergang ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Gesetzlicher-Forderungsuebergang>)
+  * § 775 Anspruch des Bürgen auf Befreiung 
+  * [ § 776 Aufgabe einer Sicherheit ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Aufgabe-einer-Sicherheit>)
+  * [ § 777 Bürgschaft auf Zeit ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Buergschaft-auf-Zeit>)
+  * [ § 778 Kreditauftrag ](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Kreditauftrag>)
+
+
+/ § 775 
+[Previous](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Gesetzlicher-Forderungsuebergang> "§ 774 Gesetzlicher Forderungsübergang") [Next](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Aufgabe-einer-Sicherheit> "§ 776 Aufgabe einer Sicherheit")
+# § 775 Anspruch des Bürgen auf Befreiung
+(1) Hat sich der Bürge im Auftrag des Hauptschuldners verbürgt oder stehen ihm nach den Vorschriften über die Geschäftsführung ohne Auftrag wegen der Übernahme der Bürgschaft die Rechte eines Beauftragten gegen den Hauptschuldner zu, so kann er von diesem Befreiung von der Bürgschaft verlangen:
+  * 1. wenn sich die Vermögensverhältnisse des Hauptschuldners wesentlich verschlechtert haben,
+  * 2. wenn die Rechtsverfolgung gegen den Hauptschuldner infolge einer nach der Übernahme der Bürgschaft eingetretenen Änderung des Wohnsitzes, der gewerblichen Niederlassung oder des Aufenthaltsorts des Hauptschuldners wesentlich erschwert ist,
+  * 3. wenn der Hauptschuldner mit der Erfüllung seiner Verbindlichkeit im Verzug ist,
+  * 4. wenn der Gläubiger gegen den Bürgen ein vollstreckbares Urteil auf Erfüllung erwirkt hat.
+
+
+(2) Ist die Hauptverbindlichkeit noch nicht fällig, so kann der Hauptschuldner dem Bürgen, statt ihn zu befreien, Sicherheit leisten.
+## Für den Rechtsverkehr 
+(für Nichtjuristen)
+[zum Expertenteil (für Juristen)](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/<#expertenhinweise>)
+Bedeutung für den Rechtsverkehr, häufige Anwendungsfälle
+## Expertenhinweise
+(für Juristen)
+Zu dieser Norm ist noch keine Kommentierung veröffentlicht. Wir hoffen, dass wir Ihnen mit dem Service der Gesetzesveröffentlichung bereits ein wenig weiterhelfen konnten. [Sprechen Sie uns gerne an](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Kontakt>), wenn Sie geeignete Autoren für eine Kommentierung vorschlagen möchten. 
+### Fußnoten
+[Previous](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Gesetzlicher-Forderungsuebergang> "§ 774 Gesetzlicher Forderungsübergang") [Next](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Buch-2/Abschnitt-8/Titel-20/Aufgabe-einer-Sicherheit> "§ 776 Aufgabe einer Sicherheit")
+[© | Impressum](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Kontakt>) | [AGB](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</AGB>) | [Datenschutzerklärung](https://bgb.kommentar.de/Buch-2/Abschnitt-8/Titel-20/</Datenschutzerklaerung-fuer-Leser>)

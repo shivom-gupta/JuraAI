@@ -1,0 +1,3 @@
+# § 740c Ausscheiden eines Gesellschafters
+(1) Ist im Gesellschaftsvertrag vereinbart, dass abweichend von den in § 740a Absatz 1 Nummer 3 bis 6 genannten Beendigungsgründen die Gesellschaft fortbestehen soll, so tritt mangels abweichender Vereinbarung an die Stelle der Beendigung der Gesellschaft das Ausscheiden des Gesellschafters, in dessen Person der Ausscheidensgrund eintritt.
+(2) Auf das Ausscheiden eines Gesellschafters sind die §§ 727, 728 und 728a entsprechend anzuwenden.

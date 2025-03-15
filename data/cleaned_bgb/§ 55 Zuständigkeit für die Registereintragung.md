@@ -1,0 +1,2 @@
+# § 55 Zuständigkeit für die Registereintragung
+Die Eintragung eines Vereins der in § 21 bezeichneten Art in das Vereinsregister hat bei dem Amtsgericht zu geschehen, in dessen Bezirk der Verein seinen Sitz hat.

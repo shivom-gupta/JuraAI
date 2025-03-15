@@ -1,0 +1,2 @@
+# § 538 Abnutzung der Mietsache durch vertragsgemäßen Gebrauch
+Veränderungen oder Verschlechterungen der Mietsache, die durch den vertragsgemäßen Gebrauch herbeigeführt werden, hat der Mieter nicht zu vertreten.

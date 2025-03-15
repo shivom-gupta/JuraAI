@@ -1,0 +1,2 @@
+# § 2021 Herausgabepflicht nach Bereicherungsgrundsätzen
+Soweit der Erbschaftsbesitzer zur Herausgabe außerstande ist, bestimmt sich seine Verpflichtung nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung.

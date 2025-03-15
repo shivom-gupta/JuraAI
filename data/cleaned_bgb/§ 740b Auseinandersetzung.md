@@ -1,0 +1,3 @@
+# § 740b Auseinandersetzung
+(1) Nach der Beendigung der nicht rechtsfähigen Gesellschaft findet die Auseinandersetzung unter den Gesellschaftern statt.
+(2) Auf die Auseinandersetzung sind § 736d Absatz 2, 4, 5 und 6 und § 737 entsprechend anzuwenden.

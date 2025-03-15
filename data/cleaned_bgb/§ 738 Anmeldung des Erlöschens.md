@@ -1,0 +1,2 @@
+# § 738 Anmeldung des Erlöschens
+Ist die Gesellschaft im Gesellschaftsregister eingetragen, ist das Erlöschen der Gesellschaft von sämtlichen Liquidatoren zur Eintragung in das Gesellschaftsregister anzumelden, sobald die Liquidation beendigt ist.

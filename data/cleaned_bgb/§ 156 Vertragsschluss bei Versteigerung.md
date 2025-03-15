@@ -1,0 +1,2 @@
+# § 156 Vertragsschluss bei Versteigerung
+Bei einer Versteigerung kommt der Vertrag erst durch den Zuschlag zustande. Ein Gebot erlischt, wenn ein Übergebot abgegeben oder die Versteigerung ohne Erteilung des Zuschlags geschlossen wird.

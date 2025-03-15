@@ -1,0 +1,2 @@
+# § 1033 Erwerb durch Ersitzung
+Der Nießbrauch an einer beweglichen Sache kann durch Ersitzung erworben werden. Die für den Erwerb des Eigentums durch Ersitzung geltenden Vorschriften finden entsprechende Anwendung.

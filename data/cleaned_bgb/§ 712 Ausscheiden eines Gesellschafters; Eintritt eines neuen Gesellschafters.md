@@ -1,0 +1,3 @@
+# § 712 Ausscheiden eines Gesellschafters; Eintritt eines neuen Gesellschafters
+(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so wächst sein Anteil an der Gesellschaft den übrigen Gesellschaftern im Zweifel im Verhältnis ihrer Anteile zu.
+(2) Tritt ein neuer Gesellschafter in die Gesellschaft ein, so mindern sich die Anteile der anderen Gesellschafter an der Gesellschaft im Zweifel im Umfang des dem neuen Gesellschafter zuwachsenden Anteils und in dem Verhältnis ihrer bisherigen Anteile.

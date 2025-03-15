@@ -1,0 +1,2 @@
+# § 1506 Anteilsunwürdigkeit
+Ist ein gemeinschaftlicher Abkömmling erbunwürdig, so ist er auch des Anteils an dem Gesamtgut unwürdig. Die Vorschriften über die Erbunwürdigkeit finden entsprechende Anwendung.

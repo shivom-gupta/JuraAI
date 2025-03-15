@@ -1,0 +1,73 @@
+  * [Jurist. Stellenmarkt](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</job-board> "Jurist. Stellenmarkt")
+  * [Autorenverzeichnis](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Autorenverzeichnis> "Autorenverzeichnis")
+  * [Kontakt](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Kontakt>)
+  * [Anmelden](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/<#login> "show login form") [Anmelden](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/<#> "hide login form") Username Password
+[Forgot your password?](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</user/forgotpassword>) Anmelden 
+
+
+[![BGB Online Kommentar](https://bgb.kommentar.de/extension/bgb/design/bgb/images/logo.png)](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</> "BGB Online Kommentar")
+Suchen
+Navigation
+  * [Allgemeiner Teil](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1>)
+  * [Recht der Schuldverhältnisse](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-2>)
+  * [Sachenrecht](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-3>)
+  * [Familienrecht](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-4>)
+  * [Erbrecht](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-5>)
+
+
+  * [Der online BGB-Kommentar](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</>) »
+  * [Buch 1](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1>) »
+  * [Abschnitt 1](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1>) »
+  * [Titel 2](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2>) »
+  * [Untertitel 1](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1>) »
+  * [Kapitel 2](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2>) »
+  * § 79a Anwendung der Verordnung (EU) 2016/679 im Registerverfahren 
+  * Stand: 12.01.2025 (Gesetz) ; 01.12.2019 (Kommentierung) 
+
+
+![](https://vg01.met.vgwort.de/na/1c9909529ead4f509072c06d9081a7d5)
+Schliessen 
+## Artikelübersicht
+  * [ § 55 Zuständigkeit für die Registereintragung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Zustaendigkeit-fuer-die-Registereintragung>)
+  * [ § 55a Elektronisches Vereinsregister ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Elektronisches-Vereinsregister>)
+  * [ § 56 Mindestmitgliederzahl des Vereins ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Mindestmitgliederzahl-des-Vereins>)
+  * [ § 57 Mindesterfordernisse an die Vereinssatzung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Mindesterfordernisse-an-die-Vereinssatzung>)
+  * [ § 58 Sollinhalt der Vereinssatzung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Sollinhalt-der-Vereinssatzung>)
+  * [ § 59 Anmeldung zur Eintragung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Anmeldung-zur-Eintragung>)
+  * [ § 60 Zurückweisung der Anmeldung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Zurueckweisung-der-Anmeldung>)
+  * [ (XXXX) §§ 61 bis 63 (weggefallen) ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/weggefallen>)
+  * [ § 64 Inhalt der Vereinsregistereintragung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Inhalt-der-Vereinsregistereintragung>)
+  * [ § 65 Namenszusatz ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Namenszusatz>)
+  * [ § 66 Aufbewahrung von Dokumenten ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Aufbewahrung-von-Dokumenten>)
+  * [ § 67 Änderung des Vorstands ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Aenderung-des-Vorstands>)
+  * [ § 68 Vertrauensschutz durch Vereinsregister ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Vertrauensschutz-durch-Vereinsregister>)
+  * [ § 69 Nachweis des Vereinsvorstands ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Nachweis-des-Vereinsvorstands>)
+  * [ § 70 Vertrauensschutz bei Eintragungen zur Vertretungsmacht ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Vertrauensschutz-bei-Eintragungen-zur-Vertretungsmacht>)
+  * [ § 71 Änderungen der Satzung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Aenderungen-der-Satzung>)
+  * [ § 72 Bescheinigung der Mitgliederzahl ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Bescheinigung-der-Mitgliederzahl>)
+  * [ § 73 Unterschreiten der Mindestmitgliederzahl ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Unterschreiten-der-Mindestmitgliederzahl>)
+  * [ § 74 Auflösung ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Aufloesung>)
+  * [ § 75 Eintragungen bei Insolvenz ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Eintragungen-bei-Insolvenz>)
+  * [ § 76 Eintragungen bei Liquidation ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Eintragungen-bei-Liquidation>)
+  * [ § 77 Anmeldepflichtige und Form der Anmeldungen ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Anmeldepflichtige-und-Form-der-Anmeldungen>)
+  * [ § 78 Festsetzung von Zwangsgeld ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Festsetzung-von-Zwangsgeld>)
+  * [ § 79 Einsicht in das Vereinsregister ](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Einsicht-in-das-Vereinsregister>)
+  * § 79a Anwendung der Verordnung (EU) 2016/679 im Registerverfahren 
+
+
+/ § 79a 
+[Previous](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Einsicht-in-das-Vereinsregister> "§ 79 Einsicht in das Vereinsregister") [Next](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-2/Ausgestaltung-und-Entstehung-der-Stiftung> "§ 80 Ausgestaltung und Entstehung der Stiftung")
+# § 79a Anwendung der Verordnung (EU) 2016/679 im Registerverfahren
+(1) Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) werden nach § 79 und den dazu erlassenen Vorschriften der Vereinsregisterverordnung durch Einsicht in das Register oder den Abruf von Registerdaten über das länderübergreifende Informations- und Kommunikationssystem gewährt. Das Registergericht ist nicht verpflichtet, Personen, deren personenbezogene Daten im Vereinsregister oder in den Registerakten gespeichert sind, über die Offenlegung dieser Daten an Dritte Auskunft zu erteilen.
+(2) Das Recht auf Berichtigung nach Artikel 16 der Verordnung (EU) 2016/679 kann für personenbezogene Daten, die im Vereinsregister oder in den Registerakten gespeichert sind, nur unter den Voraussetzungen und in dem Verfahren ausgeübt werden, die im Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie der Vereinsregisterverordnung für eine Löschung oder Berichtigung von Eintragungen geregelt sind.
+(3) Das Widerspruchsrecht nach Artikel 21 der Verordnung (EU) 2016/679 ist auf personenbezogene Daten, die im Vereinsregister und in den Registerakten gespeichert sind, nicht anzuwenden.
+## Für den Rechtsverkehr 
+(für Nichtjuristen)
+[zum Expertenteil (für Juristen)](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/<#expertenhinweise>)
+Bedeutung für den Rechtsverkehr, häufige Anwendungsfälle
+## Expertenhinweise
+(für Juristen)
+Zu dieser Norm ist noch keine Kommentierung veröffentlicht. Wir hoffen, dass wir Ihnen mit dem Service der Gesetzesveröffentlichung bereits ein wenig weiterhelfen konnten. [Sprechen Sie uns gerne an](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Kontakt>), wenn Sie geeignete Autoren für eine Kommentierung vorschlagen möchten. 
+### Fußnoten
+[Previous](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/Einsicht-in-das-Vereinsregister> "§ 79 Einsicht in das Vereinsregister") [Next](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Buch-1/Abschnitt-1/Titel-2/Untertitel-2/Ausgestaltung-und-Entstehung-der-Stiftung> "§ 80 Ausgestaltung und Entstehung der Stiftung")
+[© | Impressum](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Kontakt>) | [AGB](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</AGB>) | [Datenschutzerklärung](https://bgb.kommentar.de/Buch-1/Abschnitt-1/Titel-2/Untertitel-1/Kapitel-2/</Datenschutzerklaerung-fuer-Leser>)

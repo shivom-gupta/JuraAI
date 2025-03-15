@@ -1,0 +1,2 @@
+# § 1136 Rechtsgeschäftliche Verfügungsbeschränkung
+Eine Vereinbarung, durch die sich der Eigentümer dem Gläubiger gegenüber verpflichtet, das Grundstück nicht zu veräußern oder nicht weiter zu belasten, ist nichtig.

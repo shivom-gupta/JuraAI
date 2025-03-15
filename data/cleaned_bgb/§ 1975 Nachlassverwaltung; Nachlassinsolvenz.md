@@ -1,0 +1,2 @@
+# § 1975 Nachlassverwaltung; Nachlassinsolvenz
+Die Haftung des Erben für die Nachlassverbindlichkeiten beschränkt sich auf den Nachlass, wenn eine Nachlasspflegschaft zum Zwecke der Befriedigung der Nachlassgläubiger (Nachlassverwaltung) angeordnet oder das Nachlassinsolvenzverfahren eröffnet ist.

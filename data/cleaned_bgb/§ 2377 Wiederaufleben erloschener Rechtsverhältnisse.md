@@ -1,0 +1,2 @@
+# § 2377 Wiederaufleben erloschener Rechtsverhältnisse
+Die infolge des Erbfalls durch Vereinigung von Recht und Verbindlichkeit oder von Recht und Belastung erloschenen Rechtsverhältnisse gelten im Verhältnis zwischen dem Käufer und dem Verkäufer als nicht erloschen. Erforderlichenfalls ist ein solches Rechtsverhältnis wiederherzustellen.

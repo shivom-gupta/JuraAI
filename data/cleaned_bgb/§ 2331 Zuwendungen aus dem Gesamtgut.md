@@ -1,0 +1,28 @@
+# § 2331 Zuwendungen aus dem Gesamtgut
+(1) Eine Zuwendung, die aus dem Gesamtgut der Gütergemeinschaft erfolgt, gilt als von jedem der Ehegatten zur Hälfte gemacht. Die Zuwendung gilt jedoch, wenn sie an einen Abkömmling, der nur von einem der Ehegatten abstammt, oder an eine Person, von der nur einer der Ehegatten abstammt, erfolgt, oder wenn einer der Ehegatten wegen der Zuwendung zu dem Gesamtgut Ersatz zu leisten hat, als von diesem Ehegatten gemacht.
+(2) Diese Vorschriften sind auf eine Zuwendung aus dem Gesamtgut der fortgesetzten Gütergemeinschaft entsprechend anzuwenden.
+#### Ausschluss der Pflichtteilsergänzung bei Pflicht- und Anstandsschenkungen
+[1]( Vorschrift spielt praktisch eine sehr geringe Rolle, da ihre Anwendung voraussetzt,
+* dass der Erblasser / die Erblasserin verheiratet war und mit seinem Ehepartner einen notariellen Ehevertrag geschlossen hatte, _und_
+* dass in diesem Ehevertrag Gütergemeinschaft vereinbart wurde.  
+[](
+#### **Anwendungsfälle der Vorschrift sind sehr selten**
+Letzteres kommt heutzutage kaum noch vor und findet sich allenfalls in älteren Testamenten aus landwirtschaftlich geprägten Regionen. Bevor Sie also weiterlesen, prüfen Sie, ob diese Voraussetzungen in Ihrem Fall wirklich gegeben sind: Enthält der Ehevertrag als Güterstandsvereinbarung den „gesetzlichen Güterstand“, „Zugewinngemeinschaft“, „modifizierte Zugewinngemeinschaft“ oder „Gütertrennung“, spielt [§ 2331 BGB]( für Ihren Fall keine Rolle.
+Sollte tatsächlich Gütergemeinschaft vereinbart worden sein, bestimmt die Vorschrift, dass im Rahmen der Pflichtteilsergänzung (nach [§§ 2325 ff. BGB]( ein Geschenk, das aus dem beiden Ehepartnern als Gesamtgut gehörenden Vermögen stammt, bei Berechnung des Pflichtteilsergänzungsanspruchs so behandelt wird, als hätte jeder Ehepartner die Hälfte geschenkt.
+[](
+#### **Zuwendungen aus dem Gesamtgut werden Erblassern hälftig zugerechnet**
+_Beispiel:_ Die Ehegatten haben in einem notariellen Ehevertrag vereinbart, dass für sie der Güterstand der Gütergemeinschaft gelten soll. Aus dem gemeinsam erwirtschafteten Vermögen schenken Sie ihrer gemeinsamen Tochter 100.000 €. Der Ehemann verstirbt, seine Ehefrau wird Alleinerbin, und der gemeinsame Sohn macht nun Pflichtteilsansprüche und – wegen des Geschenks an die Tochter – Pflichtteilsergänzungsansprüche geltend. Bei Berechnung dieses Pflichtteilsergänzungsanspruchs wird nun unterstellt, der Vater hätte der Tochter 50.000 € geschenkt. Stirbt später auch die Mutter, wird ihr das Geschenk i.H.v. 50.000 € ebenfalls zugerechnet und bei der Pflichtteilsergänzung berücksichtigt.
+[](
+#### **Ausnahme: Geschenke an „einseitige“ Kinder nur eines Ehegattens**
+Etwas anderes gilt nur, wenn das Geschenk an ein einseitiges Kind (das also nur vom Vater oder nur von der Mutter abstammt) gemacht wurde. In diesem Fall wird das Geschenk so behandelt, als habe es dieser Elternteil allein gemacht.
+[ Rückfrage an den Autor ]( [ Rückfrage an den Autor ](
+## Expertenhinweise
+(für Juristen)
+### 1) Allgemeines
+[2]( Norm entspricht inhaltlich der Regelung in [§ 2054 BGB]( und regelt die pflichtteilsrechtliche Zuordnung von Schenkungen aus dem Gesamtgut. Die praktische Bedeutung der Vorschrift ist dabei gering, wie sich auch in der kaum vorhandenen Rechtsprechung zu ihr zeigt. Dies liegt daran, dass Voraussetzung der Anwendung die vertragliche Vereinbarung der Gütergemeinschaft als Ehegüterstand ist, der nur noch selten gewählt wird, allenfalls wohl noch im Bodenseeraum.[1]( Wikipedia,  abgerufen am 24.08.2020
+### 2) Definitionen
+[3]( muss eine, durch notariellen Ehevertrag vereinbarte Gütergemeinschaft im Sinne von [§ 1415 BGB]( wirksam vereinbart worden sein. Gemäß Absatz 2 ist die Vorschrift dabei auf Zuwendungen aus einer fortgesetzten Gütergemeinschaft im Sinne von [§§ 1483 ff. BGB]( entsprechend anwendbar.
+[4]( auf den Ehegüterstand ausländisches Eherecht zur Anwendung, so stellt sich die Frage, ob der ausländische Güterstand die deutsche Gütergemeinschaft substituieren kann. Eine Substitution ist dabei regelmäßi vorzunehmen, wenn der ausländische Güterstand funktional gleichwertig ist, d.h. eine Übereinstimmung in den wesentlichen, normprägenden Merkmalen besteht.[2]( Substitution OLG Hamm vom 21.03.2019 - 10 W 31/17
+[5]( muss eine pflichtteilsrelevante Zuwendung vorliegen. Diese umfasst in erster Linie, aber nicht nur, ergänzungspflichtige Schenkungen. Die Regelung gilt auch für die Anrechnung von Schenkungen auf den regulären Pflichtteil ([§ 2315 BGB]( bzw. über den entsprechend formulierten [§ 2054 BGB]( auch für ausgleichungspflichtige Zuwendungen.
+### 3) Abgrenzungen, Kasuistik
+[6]( Vorschrift bedeutet hinsichtlich der Zuordnung der Schenkung eine widerlegliche Vermutung, d.h. der Beweis, dass die Schenkung ganz oder überwiegend von nur einem Elternteil (oder von beiden Ehegatten bei einseitigen Kindern) erfolgte, steht jedem Beteiligten offen. Satz 2 kommt insoweit nicht zur Anwendung, als die Schenkung an ein einseitiges Kind nicht aus dem (gedachten) Anteil des betroffenen Ehegatten an dem Gesamtgut erbracht werden konnte, da es den Wert übersteigt. Strittig ist dabei allerdings, auf welchen Zeitpunkt für diese Beurteilung abzustellen ist. Richtigerweise kommt es auf den Schenkungszeitpunkt an, da bei Überschreiten des Ehegattenanteils bei der Schenkung die Vermutung widerlegt wäre.[3]( Ergebnis wie hier MüKoBGB/Lange, 8. Aufl. 2020, BGB § 2331 Rn. 3; Staudinger/Olshausen 2015, Rn. 5; a.A. (Beendigungszeitpunkt maßgeblich) BeckOK BGB/Müller-Engels, 55. Ed. 1.8.2020, BGB § 2331 Rn. 4; RGZ 94, 262

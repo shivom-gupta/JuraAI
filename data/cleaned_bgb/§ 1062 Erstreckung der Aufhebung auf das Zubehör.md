@@ -1,0 +1,2 @@
+# § 1062 Erstreckung der Aufhebung auf das Zubehör
+Wird der Nießbrauch an einem Grundstück durch Rechtsgeschäft aufgehoben, so erstreckt sich die Aufhebung im Zweifel auf den Nießbrauch an dem Zubehör.

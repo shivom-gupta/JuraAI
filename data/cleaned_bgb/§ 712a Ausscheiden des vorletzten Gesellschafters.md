@@ -1,0 +1,3 @@
+# § 712a Ausscheiden des vorletzten Gesellschafters
+(1) Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht zum Zeitpunkt des Ausscheidens des vorletzten Gesellschafters im Wege der Gesamtrechtsnachfolge auf den verbleibenden Gesellschafter über.
+(2) In Bezug auf die Rechte und Pflichten des vorletzten Gesellschafters sind anlässlich seines Ausscheidens die §§ 728 bis 728b entsprechend anzuwenden.

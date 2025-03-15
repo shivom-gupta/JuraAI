@@ -1,0 +1,2 @@
+# § 1041 Erhaltung der Sache
+Der Nießbraucher hat für die Erhaltung der Sache in ihrem wirtschaftlichen Bestand zu sorgen. Ausbesserungen und Erneuerungen liegen ihm nur insoweit ob, als sie zu der gewöhnlichen Unterhaltung der Sache gehören.

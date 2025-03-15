@@ -1,0 +1,2 @@
+# § 137 Rechtsgeschäftliches Verfügungsverbot
+Die Befugnis zur Verfügung über ein veräußerliches Recht kann nicht durch Rechtsgeschäft ausgeschlossen oder beschränkt werden. Die Wirksamkeit einer Verpflichtung, über ein solches Recht nicht zu verfügen, wird durch diese Vorschrift nicht berührt.

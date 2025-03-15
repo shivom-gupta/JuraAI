@@ -1,0 +1,2 @@
+# § 895 Voreintragung des Verpflichteten
+Kann die Berichtigung des Grundbuchs erst erfolgen, nachdem das Recht des nach § 894 Verpflichteten eingetragen worden ist, so hat dieser auf Verlangen sein Recht eintragen zu lassen.

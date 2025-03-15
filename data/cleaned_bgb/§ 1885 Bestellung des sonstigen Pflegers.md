@@ -1,0 +1,2 @@
+# § 1885 Bestellung des sonstigen Pflegers
+Das Betreuungsgericht oder im Falle der Nachlasspflegschaft das Nachlassgericht ordnet die Pflegschaft an, wählt einen geeigneten Pfleger aus und bestellt ihn, nachdem er sich zur Übernahme des Amtes bereit erklärt hat.

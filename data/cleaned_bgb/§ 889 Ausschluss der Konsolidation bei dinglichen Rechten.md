@@ -1,0 +1,2 @@
+# § 889 Ausschluss der Konsolidation bei dinglichen Rechten
+Ein Recht an einem fremden Grundstück erlischt nicht dadurch, dass der Eigentümer des Grundstücks das Recht oder der Berechtigte das Eigentum an dem Grundstück erwirbt.

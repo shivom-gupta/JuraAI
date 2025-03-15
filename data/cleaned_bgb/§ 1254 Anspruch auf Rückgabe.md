@@ -1,0 +1,2 @@
+# § 1254 Anspruch auf Rückgabe
+Steht dem Pfandrecht eine Einrede entgegen, durch welche die Geltendmachung des Pfandrechts dauernd ausgeschlossen wird, so kann der Verpfänder die Rückgabe des Pfandes verlangen. Das gleiche Recht hat der Eigentümer.

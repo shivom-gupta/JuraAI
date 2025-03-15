@@ -1,0 +1,2 @@
+# § 1241 Benachrichtigung des Eigentümers
+Der Pfandgläubiger hat den Eigentümer von dem Verkauf des Pfandes und dem Ergebnis unverzüglich zu benachrichtigen, sofern nicht die Benachrichtigung untunlich ist.

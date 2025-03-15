@@ -1,0 +1,2 @@
+# § 1130 Wiederherstellungsklausel
+Ist der Versicherer nach den Versicherungsbestimmungen nur verpflichtet, die Versicherungssumme zur Wiederherstellung des versicherten Gegenstands zu zahlen, so ist eine diesen Bestimmungen entsprechende Zahlung an den Versicherten dem Hypothekengläubiger gegenüber wirksam.

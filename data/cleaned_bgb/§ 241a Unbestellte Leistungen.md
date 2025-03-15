@@ -1,0 +1,4 @@
+# § 241a Unbestellte Leistungen
+(1) Durch die Lieferung beweglicher Sachen, die nicht auf Grund von Zwangsvollstreckungsmaßnahmen oder anderen gerichtlichen Maßnahmen verkauft werden (Waren), oder durch die Erbringung sonstiger Leistungen durch einen Unternehmer an den Verbraucher wird ein Anspruch gegen den Verbraucher nicht begründet, wenn der Verbraucher die Waren oder sonstigen Leistungen nicht bestellt hat.
+(2) Gesetzliche Ansprüche sind nicht ausgeschlossen, wenn die Leistung nicht für den Empfänger bestimmt war oder in der irrigen Vorstellung einer Bestellung erfolgte und der Empfänger dies erkannt hat oder bei Anwendung der im Verkehr erforderlichen Sorgfalt hätte erkennen können.
+(3) Von den Regelungen dieser Vorschrift darf nicht zum Nachteil des Verbrauchers abgewichen werden. Die Regelungen finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.

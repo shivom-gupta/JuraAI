@@ -1,0 +1,2 @@
+# § 2292 Aufhebung durch gemeinschaftliches Testament
+Ein zwischen Ehegatten oder Lebenspartnern geschlossener Erbvertrag kann auch durch ein gemeinschaftliches Testament der Ehegatten oder Lebenspartner aufgehoben werden.

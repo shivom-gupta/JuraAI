@@ -1,0 +1,2 @@
+# § 668 Verzinsung des verwendeten Geldes
+Verwendet der Beauftragte Geld für sich, das er dem Auftraggeber herauszugeben oder für ihn zu verwenden hat, so ist er verpflichtet, es von der Zeit der Verwendung an zu verzinsen.

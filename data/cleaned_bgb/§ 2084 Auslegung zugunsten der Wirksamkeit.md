@@ -1,0 +1,2 @@
+# § 2084 Auslegung zugunsten der Wirksamkeit
+Lässt der Inhalt einer letztwilligen Verfügung verschiedene Auslegungen zu, so ist im Zweifel diejenige Auslegung vorzuziehen, bei welcher die Verfügung Erfolg haben kann.

@@ -1,0 +1,2 @@
+# § 1693 Gerichtliche Maßnahmen bei Verhinderung der Eltern
+Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familiengericht die im Interesse des Kindes erforderlichen Maßregeln zu treffen.

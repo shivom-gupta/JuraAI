@@ -1,0 +1,2 @@
+# § 1457 Ungerechtfertigte Bereicherung des Gesamtguts
+Wird durch ein Rechtsgeschäft, das ein Ehegatte ohne die erforderliche Zustimmung des anderen Ehegatten vornimmt, das Gesamtgut bereichert, so ist die Bereicherung nach den Vorschriften über die ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.

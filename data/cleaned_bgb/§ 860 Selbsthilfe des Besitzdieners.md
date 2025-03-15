@@ -1,0 +1,2 @@
+# § 860 Selbsthilfe des Besitzdieners
+Zur Ausübung der dem Besitzer nach § 859 zustehenden Rechte ist auch derjenige befugt, welcher die tatsächliche Gewalt nach § 855 für den Besitzer ausübt.

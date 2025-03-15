@@ -1,0 +1,2 @@
+# § 1810 Pflegschaft für ein ungeborenes Kind
+Für ein bereits gezeugtes Kind kann zur Wahrung seiner künftigen Rechte ein Pfleger bestellt werden, sofern die Eltern an der Ausübung der elterlichen Sorge verhindert wären, wenn das Kind bereits geboren wäre. Mit der Geburt des Kindes endet die Pflegschaft.

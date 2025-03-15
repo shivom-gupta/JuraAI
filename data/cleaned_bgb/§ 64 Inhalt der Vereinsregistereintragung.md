@@ -1,0 +1,2 @@
+# § 64 Inhalt der Vereinsregistereintragung
+Bei der Eintragung sind der Name und der Sitz des Vereins, der Tag der Errichtung der Satzung, die Mitglieder des Vorstands und ihre Vertretungsmacht anzugeben.

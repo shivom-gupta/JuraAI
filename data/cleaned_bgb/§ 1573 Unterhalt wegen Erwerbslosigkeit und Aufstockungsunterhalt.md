@@ -1,0 +1,28 @@
+# § 1573 Unterhalt wegen Erwerbslosigkeit und Aufstockungsunterhalt
+(1) Soweit ein geschiedener Ehegatte keinen Unterhaltsanspruch nach den §§ 1570 bis 1572 hat, kann er gleichwohl Unterhalt verlangen, solange und soweit er nach der Scheidung keine angemessene Erwerbstätigkeit zu finden vermag.
+(2) Reichen die Einkünfte aus einer angemessenen Erwerbstätigkeit zum vollen Unterhalt (§ 1578) nicht aus, kann er, soweit er nicht bereits einen Unterhaltsanspruch nach den §§ 1570 bis 1572 hat, den Unterschiedsbetrag zwischen den Einkünften und dem vollen Unterhalt verlangen.
+(3) Absätze 1 und 2 gelten entsprechend, wenn Unterhalt nach den §§ 1570 bis 1572, 1575 zu gewähren war, die Voraussetzungen dieser Vorschriften aber entfallen sind.
+(4) Der geschiedene Ehegatte kann auch dann Unterhalt verlangen, wenn die Einkünfte aus einer angemessenen Erwerbstätigkeit wegfallen, weil es ihm trotz seiner Bemühungen nicht gelungen war, den Unterhalt durch die Erwerbstätigkeit nach der Scheidung nachhaltig zu sichern. War es ihm gelungen, den Unterhalt teilweise nachhaltig zu sichern, so kann er den Unterschiedsbetrag zwischen dem nachhaltig gesicherten und dem vollen Unterhalt verlangen.
+(5) (weggefallen)
+## Expertenhinweise
+(für Juristen)
+### 1) Allgemeines
+[5]( Unterhaltsanspruch nach [§ 1573 BGB]( regelt sowohl den Erwerbslosenunterhalt (Absatz 1), als auch den Aufstockungsunterhalt (Absatz 2). In beiden Fällen wird der Anspruch in der Regel als Anschlussunterhalt geltend gemacht.
+Der Unterhalt wegen Erwerbslosigkeit greift ein, wenn der Unterhaltsberechtigte trotz notwendiger Bemühungen keine angemessene Erwerbstätigkeit findet. Besteht zwischen den angemessenen Erwerbseinkünften des Unterhaltsberechtigten und seinem vollen Unterhalt nach den ehelichen Lebensverhältnissen ein Differenzbetrag, kann dieser über den Aufstockungsunterhalt geltend gemacht werden.
+[6]( und Zweck ist die Sicherung des während der Ehezeit erwirtschaften Lebensstandards, wobei seit der Unterhaltsrechtsreform 2008 keine Lebensstandardgarantie mehr gilt. Vielmehr kann der Unterhaltsanspruch nach [§ 1578b BGB]( zeitlich oder der Höhe nach begrenzt werden, wenn beim Unterhaltsberechtigten keine ehebedingten Nachteile vorhanden sind.
+Der Anspruch nach [§ 1573 BGB]( muss nicht ehebedingt sein. Es ist nicht erforderlich, dass der Unterhaltsberechtigte vor der Ehe erwerbstätig war und diese Erwerbstätigkeit aufgrund der Ehe aufgegeben hat. Demgegenüber ist Sinn und Zweck des Aufstockungsunterhalts gerade die Sicherung ehebedingter Vorteile.[2]( FamRZ 2010, 1971. Dies gilt auch, wenn die Eheleute nicht gemeinschaftlich gewirtschaftet haben.[3]( FamRZ 1989, 838.
+### 2) Definitionen
+_1. Erwerbslosigkeitsunterhalt_
+[7]( Unterhaltsanspruch nach § 1573 Abs. 1 BGB setzt voraus, dass der Unterhaltsberechtigte aufgrund der Arbeitsmarktlage nach der Ehescheidung keine angemessene Erwerbstätigkeit auszuüben vermag.[4]( FamRZ 1988, 927
+_a) angemessene Erwerbstätigkeit_
+[8]( der Legaldefinition des [§ 1574 Abs.](
+[Weiterlesen >> ](
+### 3) Abgrenzungen, Kasuistik
+[17]( Anspruch auf Unterhalt wegen Erwerbslosigkeit gemäß § 1573 Abs. 1 BGB ist subsidiär gegenüber Unterhaltsansprüchen nach [§§ 1570]( [1571]( [1572]( [1575]( und [1576 BGB]( Gleiches gilt für den Anspruch auf Aufstockungsunterhalt nach § 1573 Abs. 2 BGB. Dieser ist darüber hinaus weiterhin subsidiär zum Anspruch auf Erwerbslosigkeitsunterhalt, ebenso wie gegenüber Ansprüchen nach § 1573 Abs. 4 BGB.[18]( FamRZ 1988, 701
+Besteht ein Unterhaltsanspruch nach den [§§ 1570]( bis [1572 BGB]( und kann der Unterhaltsberechtigte dennoch seinen vollen Bedarf nicht decken, besteht zusätzlich ein Anspruch auf Aufstockungsunterhalt nach § 1573 Abs. 2 BGB.[19]( NJW 2014, 1302
+[18]( Anspruch auf Erwerbslosigkeitsunterhalt ist immer dann gegeben, wenn der Unterhaltsberechtigte keine vollschichtige angemessene Erwerbstätigkeit auszuüben vermag. Sofern eine Erwerbstätigkeit besteht, diese aber nicht nicht - auch unter Zurechnung fiktiver Einkünfte - zur Deckung des eheangemessenen Unterhalts ausreicht, wandelt sich der Anspruch auf Erwerbslosigkeitsunterhalt in einen Anspruch auf Aufstockungsunterhalt um.[20]( FamRZ 1988, 265
+### 4) Prozessuales
+[19]( Anspruch auf Erwerbslosigkeitsunterhalt umfasst den vollen eheangemessenen Bedarf, wohingegen mit dem Anspruch auf Aufstockungsunterhalt der Differenzbetrag zwischen dem vollen Unterhaltsbedarf nach den ehelichen Lebensverhältnissen und den eigenen Einkünften des Unterhaltsberechtigten aus dessen angemessener Erwerbstätigkeit verlangt werden kann.
+Der Anspruch auf Erwerbslosigkeitsunterhalt kann nach § 1573 Abs. 4 BGB wiederaufleben, wenn der Unterhaltsberechtigte zwar zunächst eine Erwerbstätigkeit aufgenommen hatte, diese jedoch sodann unverschuldet verliert, bevor der Unterhaltsbedarf nachhaltig gesichert ist. Von einer nachhaltigen Sicherung des Unterhalts wird in der Regel bei einer Erwerbstätigkeit über eine Dauer von 2 Jahren auszugehen sein.[21]( Hamm NZFam 2016, 894
+[20]( Unterhaltsberechtigte trägt im Rahmen des Erwerbslosigkeitsunterhalts die Darlegungs-und Beweislast dafür, dass er trotz der erforderlichen Bemühungen keine angemessene Erwerbstätigkeit erlangen konnte. Davon umfasst ist eine detaillierte Aufstellung seiner Bewerbungsbemühungen. Die Darlegungs- und Beweislast für das Bestehen eines Anspruches auf Aufstockungsunterhalt trägt der Unterhaltsberechtigte.
+[21]( der Erwerbslosigkeitsunterhalt als auch der Aufstockungsunterhalt können nach den [§§ 1578 b]( und [1579 BGB]( verwirken, zeitlich oder der Höhe nach begrenzt werden.

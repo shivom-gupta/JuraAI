@@ -1,0 +1,2 @@
+# § 2207 Erweiterte Verpflichtungsbefugnis
+Der Erblasser kann anordnen, dass der Testamentsvollstrecker in der Eingehung von Verbindlichkeiten für den Nachlass nicht beschränkt sein soll. Der Testamentsvollstrecker ist auch in einem solchen Falle zu einem Schenkungsversprechen nur nach Maßgabe des § 2205 Satz 3 berechtigt.

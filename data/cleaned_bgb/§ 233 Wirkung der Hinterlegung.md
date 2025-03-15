@@ -1,0 +1,2 @@
+# § 233 Wirkung der Hinterlegung
+Mit der Hinterlegung erwirbt der Berechtigte ein Pfandrecht an dem hinterlegten Geld oder an den hinterlegten Wertpapieren und, wenn das Geld oder die Wertpapiere in das Eigentum des Fiskus oder der als Hinterlegungsstelle bestimmten Anstalt übergehen, ein Pfandrecht an der Forderung auf Rückerstattung.

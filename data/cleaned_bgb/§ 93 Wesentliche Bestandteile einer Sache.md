@@ -1,0 +1,2 @@
+# § 93 Wesentliche Bestandteile einer Sache
+Bestandteile einer Sache, die voneinander nicht getrennt werden können, ohne dass der eine oder der andere zerstört oder in seinem Wesen verändert wird (wesentliche Bestandteile), können nicht Gegenstand besonderer Rechte sein.

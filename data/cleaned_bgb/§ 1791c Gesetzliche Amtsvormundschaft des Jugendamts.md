@@ -1,0 +1,4 @@
+# § 1791c Gesetzliche Amtsvormundschaft des Jugendamts
+(1) Mit der Geburt eines Kindes, dessen Eltern nicht miteinander verheiratet sind und das eines Vormunds bedarf, wird das Jugendamt Vormund, wenn das Kind seinen gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hat; dies gilt nicht, wenn bereits vor der Geburt des Kindes ein Vormund bestellt ist. Wurde die Vaterschaft nach § 1592 Nr. 1 oder 2 durch Anfechtung beseitigt und bedarf das Kind eines Vormunds, so wird das Jugendamt in dem Zeitpunkt Vormund, in dem die Entscheidung rechtskräftig wird.
+(2) War das Jugendamt Pfleger eines Kindes, dessen Eltern nicht miteinander verheiratet sind, endet die Pflegschaft kraft Gesetzes und bedarf das Kind eines Vormunds, so wird das Jugendamt Vormund, das bisher Pfleger war.
+(3) Das Familiengericht hat dem Jugendamt unverzüglich eine Bescheinigung über den Eintritt der Vormundschaft zu erteilen; § 1791 ist nicht anzuwenden.

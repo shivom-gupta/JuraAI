@@ -1,0 +1,2 @@
+# § 421 Gesamtschuldner
+Schulden mehrere eine Leistung in der Weise, dass jeder die ganze Leistung zu bewirken verpflichtet, der Gläubiger aber die Leistung nur einmal zu fordern berechtigt ist (Gesamtschuldner), so kann der Gläubiger die Leistung nach seinem Belieben von jedem der Schuldner ganz oder zu einem Teil fordern. Bis zur Bewirkung der ganzen Leistung bleiben sämtliche Schuldner verpflichtet.

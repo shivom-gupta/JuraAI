@@ -1,0 +1,3 @@
+# § 2128 Sicherheitsleistung
+(1) Wird durch das Verhalten des Vorerben oder durch seine ungünstige Vermögenslage die Besorgnis einer erheblichen Verletzung der Rechte des Nacherben begründet, so kann der Nacherbe Sicherheitsleistung verlangen.
+(2) Die für die Verpflichtung des Nießbrauchers zur Sicherheitsleistung geltende Vorschrift des § 1052 findet entsprechende Anwendung.

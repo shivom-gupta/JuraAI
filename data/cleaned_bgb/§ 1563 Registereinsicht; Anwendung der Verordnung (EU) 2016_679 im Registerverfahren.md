@@ -1,0 +1,4 @@
+# § 1563 Registereinsicht; Anwendung der Verordnung (EU) 2016/679 im Registerverfahren
+(1) Die Einsicht des Registers ist jedem gestattet. Von den Eintragungen kann eine Abschrift gefordert werden; die Abschrift ist auf Verlangen zu beglaubigen.
+(2) Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 werden nach Absatz 1 durch Einsicht in das Register gewährt. Das Registergericht ist nicht verpflichtet, Personen, deren personenbezogene Daten im Güterrechtsregister oder in den Registerakten gespeichert sind, über die Offenlegung dieser Daten an Dritte Auskunft zu erteilen.
+(3) Im Übrigen gilt § 79a Absatz 2 und 3 entsprechend.

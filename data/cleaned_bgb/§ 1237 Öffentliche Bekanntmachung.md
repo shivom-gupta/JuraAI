@@ -1,0 +1,2 @@
+# § 1237 Öffentliche Bekanntmachung
+Für die öffentliche Bekanntmachung der Versteigerung ist § 383 Absatz 3 anzuwenden. Der Eigentümer und Dritte, denen Rechte an dem Pfande zustehen, sind besonders zu benachrichtigen; die Benachrichtigung darf unterbleiben, wenn sie untunlich ist.

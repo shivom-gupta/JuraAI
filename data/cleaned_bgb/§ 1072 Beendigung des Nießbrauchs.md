@@ -1,0 +1,2 @@
+# § 1072 Beendigung des Nießbrauchs
+Die Beendigung des Nießbrauchs tritt nach den Vorschriften der §§ 1063, 1064 auch dann ein, wenn das dem Nießbrauch unterliegende Recht nicht ein Recht an einer beweglichen Sache ist.

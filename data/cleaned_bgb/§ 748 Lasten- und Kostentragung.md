@@ -1,0 +1,2 @@
+# § 748 Lasten- und Kostentragung
+Jeder Teilhaber ist den anderen Teilhabern gegenüber verpflichtet, die Lasten des gemeinschaftlichen Gegenstands sowie die Kosten der Erhaltung, der Verwaltung und einer gemeinschaftlichen Benutzung nach dem Verhältnis seines Anteils zu tragen.

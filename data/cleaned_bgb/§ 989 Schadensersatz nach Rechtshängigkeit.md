@@ -1,0 +1,2 @@
+# § 989 Schadensersatz nach Rechtshängigkeit
+Der Besitzer ist von dem Eintritt der Rechtshängigkeit an dem Eigentümer für den Schaden verantwortlich, der dadurch entsteht, dass infolge seines Verschuldens die Sache verschlechtert wird, untergeht oder aus einem anderen Grunde von ihm nicht herausgegeben werden kann.

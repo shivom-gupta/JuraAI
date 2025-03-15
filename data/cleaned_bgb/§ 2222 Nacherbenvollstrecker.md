@@ -1,0 +1,2 @@
+# § 2222 Nacherbenvollstrecker
+Der Erblasser kann einen Testamentsvollstrecker auch zu dem Zwecke ernennen, dass dieser bis zu dem Eintritt einer angeordneten Nacherbfolge die Rechte des Nacherben ausübt und dessen Pflichten erfüllt.

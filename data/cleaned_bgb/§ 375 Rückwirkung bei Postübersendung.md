@@ -1,0 +1,2 @@
+# § 375 Rückwirkung bei Postübersendung
+Ist die hinterlegte Sache der Hinterlegungsstelle durch die Post übersendet worden, so wirkt die Hinterlegung auf die Zeit der Aufgabe der Sache zur Post zurück.

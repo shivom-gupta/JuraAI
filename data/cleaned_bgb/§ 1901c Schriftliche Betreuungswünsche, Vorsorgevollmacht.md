@@ -1,0 +1,4 @@
+# § 1901c Schriftliche Betreuungswünsche, Vorsorgevollmacht
+Wer ein Schriftstück besitzt, in dem jemand für den Fall seiner Betreuung Vorschläge zur Auswahl des Betreuers oder Wünsche zur Wahrnehmung der Betreuung geäußert hat, hat es unverzüglich an das Betreuungsgericht abzuliefern, nachdem er von der Einleitung eines Verfahrens über die Bestellung eines Betreuers Kenntnis erlangt hat. Ebenso hat der Besitzer das Betreuungsgericht über Schriftstücke, in denen der Betroffene eine andere Person mit der Wahrnehmung seiner Angelegenheiten bevollmächtigt hat, zu unterrichten. Das Betreuungsgericht kann die Vorlage einer Abschrift verlangen.
+## Expertenhinweise
+(für Juristen)

@@ -1,0 +1,2 @@
+# § 943 Ersitzung bei Rechtsnachfolge
+Gelangt die Sache durch Rechtsnachfolge in den Eigenbesitz eines Dritten, so kommt die während des Besitzes des Rechtsvorgängers verstrichene Ersitzungszeit dem Dritten zugute.

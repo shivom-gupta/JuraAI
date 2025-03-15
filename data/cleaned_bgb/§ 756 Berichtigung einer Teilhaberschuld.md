@@ -1,0 +1,2 @@
+# § 756 Berichtigung einer Teilhaberschuld
+Hat ein Teilhaber gegen einen anderen Teilhaber eine Forderung, die sich auf die Gemeinschaft gründet, so kann er bei der Aufhebung der Gemeinschaft die Berichtigung seiner Forderung aus dem auf den Schuldner entfallenden Teil des gemeinschaftlichen Gegenstands verlangen. Die Vorschrift des § 755 Abs. 2, 3 findet Anwendung.

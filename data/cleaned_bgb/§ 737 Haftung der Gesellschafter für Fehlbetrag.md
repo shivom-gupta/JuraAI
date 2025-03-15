@@ -1,0 +1,2 @@
+# § 737 Haftung der Gesellschafter für Fehlbetrag
+Reicht das Gesellschaftsvermögen zur Berichtigung der Verbindlichkeiten und zur Rückerstattung der Beiträge nicht aus, haben die Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis ihrer Anteile am Gewinn und Verlust aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, haben die anderen Gesellschafter den Ausfall nach dem gleichen Verhältnis zu tragen.

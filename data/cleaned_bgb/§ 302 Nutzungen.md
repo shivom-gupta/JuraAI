@@ -1,0 +1,2 @@
+# § 302 Nutzungen
+Hat der Schuldner die Nutzungen eines Gegenstands herauszugeben oder zu ersetzen, so beschränkt sich seine Verpflichtung während des Verzugs des Gläubigers auf die Nutzungen, welche er zieht.

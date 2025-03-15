@@ -1,0 +1,4 @@
+# § 252 Entgangener Gewinn
+Der zu ersetzende Schaden umfasst auch den entgangenen Gewinn. Als entgangen gilt der Gewinn, welcher nach dem gewöhnlichen Lauf der Dinge oder nach den besonderen Umständen, insbesondere nach den getroffenen Anstalten und Vorkehrungen, mit Wahrscheinlichkeit erwartet werden konnte.
+## Expertenhinweise
+(für Juristen)

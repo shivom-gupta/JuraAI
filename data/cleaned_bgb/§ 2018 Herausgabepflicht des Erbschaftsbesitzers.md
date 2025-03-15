@@ -1,0 +1,2 @@
+# § 2018 Herausgabepflicht des Erbschaftsbesitzers
+Der Erbe kann von jedem, der auf Grund eines ihm in Wirklichkeit nicht zustehenden Erbrechts etwas aus der Erbschaft erlangt hat (Erbschaftsbesitzer), die Herausgabe des Erlangten verlangen.

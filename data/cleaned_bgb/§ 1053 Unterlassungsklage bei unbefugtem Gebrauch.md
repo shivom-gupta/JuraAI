@@ -1,0 +1,2 @@
+# § 1053 Unterlassungsklage bei unbefugtem Gebrauch
+Macht der Nießbraucher einen Gebrauch von der Sache, zu dem er nicht befugt ist, und setzt er den Gebrauch ungeachtet einer Abmahnung des Eigentümers fort, so kann der Eigentümer auf Unterlassung klagen.

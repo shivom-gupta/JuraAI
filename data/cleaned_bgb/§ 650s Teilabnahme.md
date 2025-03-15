@@ -1,0 +1,2 @@
+# § 650s Teilabnahme
+Der Unternehmer kann ab der Abnahme der letzten Leistung des bauausführenden Unternehmers oder der bauausführenden Unternehmer eine Teilabnahme der von ihm bis dahin erbrachten Leistungen verlangen.

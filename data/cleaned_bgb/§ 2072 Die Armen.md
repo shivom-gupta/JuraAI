@@ -1,0 +1,4 @@
+# § 2072 Die Armen
+Hat der Erblasser die Armen ohne nähere Bestimmung bedacht, so ist im Zweifel anzunehmen, dass die öffentliche Armenkasse der Gemeinde, in deren Bezirk er seinen letzten Wohnsitz gehabt hat, unter der Auflage bedacht ist, das Zugewendete unter Arme zu verteilen.
+## Expertenhinweise
+(für Juristen)

@@ -1,0 +1,2 @@
+# § 86d Form des Zulegungsvertrags und des Zusammenlegungsvertrags
+Zulegungsverträge und Zusammenlegungsverträge bedürfen nur der schriftlichen Form, insbesondere § 311b Absatz 1 bis 3 ist nicht anzuwenden.

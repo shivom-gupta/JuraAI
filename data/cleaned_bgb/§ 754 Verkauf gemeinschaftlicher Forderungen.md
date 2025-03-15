@@ -1,0 +1,2 @@
+# § 754 Verkauf gemeinschaftlicher Forderungen
+Der Verkauf einer gemeinschaftlichen Forderung ist nur zulässig, wenn sie noch nicht eingezogen werden kann. Ist die Einziehung möglich, so kann jeder Teilhaber gemeinschaftliche Einziehung verlangen.

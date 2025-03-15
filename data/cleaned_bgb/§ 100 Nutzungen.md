@@ -1,0 +1,2 @@
+# § 100 Nutzungen
+Nutzungen sind die Früchte einer Sache oder eines Rechts sowie die Vorteile, welche der Gebrauch der Sache oder des Rechts gewährt.

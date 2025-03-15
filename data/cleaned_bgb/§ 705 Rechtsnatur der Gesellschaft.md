@@ -1,0 +1,6 @@
+# § 705 Rechtsnatur der Gesellschaft
+(1) Die Gesellschaft wird durch den Abschluss des Gesellschaftsvertrags errichtet, in dem sich die Gesellschafter verpflichten, die Erreichung eines gemeinsamen Zwecks in der durch den Vertrag bestimmten Weise zu fördern.
+(2) Die Gesellschaft kann entweder selbst Rechte erwerben und Verbindlichkeiten eingehen, wenn sie nach dem gemeinsamen Willen der Gesellschafter am Rechtsverkehr teilnehmen soll (rechtsfähige Gesellschaft), oder sie kann den Gesellschaftern zur Ausgestaltung ihres Rechtsverhältnisses untereinander dienen (nicht rechtsfähige Gesellschaft).
+(3) Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens unter gemeinschaftlichem Namen, so wird vermutet, dass die Gesellschaft nach dem gemeinsamen Willen der Gesellschafter am Rechtsverkehr teilnimmt.
+## Expertenhinweise
+(für Juristen)

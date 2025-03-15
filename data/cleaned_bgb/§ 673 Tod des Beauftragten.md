@@ -1,0 +1,2 @@
+# § 673 Tod des Beauftragten
+Der Auftrag erlischt im Zweifel durch den Tod des Beauftragten. Erlischt der Auftrag, so hat der Erbe des Beauftragten den Tod dem Auftraggeber unverzüglich anzuzeigen und, wenn mit dem Aufschub Gefahr verbunden ist, die Besorgung des übertragenen Geschäfts fortzusetzen, bis der Auftraggeber anderweit Fürsorge treffen kann; der Auftrag gilt insoweit als fortbestehend.

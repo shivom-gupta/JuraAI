@@ -1,0 +1,3 @@
+# § 652 Entstehung des Lohnanspruchs
+(1) Wer für den Nachweis der Gelegenheit zum Abschluss eines Vertrags oder für die Vermittlung eines Vertrags einen Maklerlohn verspricht, ist zur Entrichtung des Lohnes nur verpflichtet, wenn der Vertrag infolge des Nachweises oder infolge der Vermittlung des Maklers zustande kommt. Wird der Vertrag unter einer aufschiebenden Bedingung geschlossen, so kann der Maklerlohn erst verlangt werden, wenn die Bedingung eintritt.
+(2) Aufwendungen sind dem Makler nur zu ersetzen, wenn es vereinbart ist. Dies gilt auch dann, wenn ein Vertrag nicht zustande kommt.

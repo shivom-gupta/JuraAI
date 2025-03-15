@@ -1,0 +1,2 @@
+# § 316 Bestimmung der Gegenleistung
+Ist der Umfang der für eine Leistung versprochenen Gegenleistung nicht bestimmt, so steht die Bestimmung im Zweifel demjenigen Teil zu, welcher die Gegenleistung zu fordern hat.

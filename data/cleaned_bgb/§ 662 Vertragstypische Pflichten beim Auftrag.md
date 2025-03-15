@@ -1,0 +1,2 @@
+# § 662 Vertragstypische Pflichten beim Auftrag
+Durch die Annahme eines Auftrags verpflichtet sich der Beauftragte, ein ihm von dem Auftraggeber übertragenes Geschäft für diesen unentgeltlich zu besorgen.

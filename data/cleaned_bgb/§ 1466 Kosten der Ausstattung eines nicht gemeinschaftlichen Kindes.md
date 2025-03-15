@@ -1,0 +1,2 @@
+# § 1466 Kosten der Ausstattung eines nicht gemeinschaftlichen Kindes
+Im Verhältnis der Ehegatten zueinander fallen die Kosten der Ausstattung eines nicht gemeinschaftlichen Kindes dem Vater oder der Mutter des Kindes zur Last.

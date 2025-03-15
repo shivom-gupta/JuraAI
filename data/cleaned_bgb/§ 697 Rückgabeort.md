@@ -1,0 +1,2 @@
+# § 697 Rückgabeort
+Die Rückgabe der hinterlegten Sache hat an dem Ort zu erfolgen, an welchem die Sache aufzubewahren war; der Verwahrer ist nicht verpflichtet, die Sache dem Hinterleger zu bringen.

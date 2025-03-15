@@ -1,0 +1,2 @@
+# § 747 Verfügung über Anteil und gemeinschaftliche Gegenstände
+Jeder Teilhaber kann über seinen Anteil verfügen. Über den gemeinschaftlichen Gegenstand im Ganzen können die Teilhaber nur gemeinschaftlich verfügen.

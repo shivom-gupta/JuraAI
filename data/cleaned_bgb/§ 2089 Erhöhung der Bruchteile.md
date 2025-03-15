@@ -1,0 +1,2 @@
+# § 2089 Erhöhung der Bruchteile
+Sollen die eingesetzten Erben nach dem Willen des Erblassers die alleinigen Erben sein, so tritt, wenn jeder von ihnen auf einen Bruchteil der Erbschaft eingesetzt ist und die Bruchteile das Ganze nicht erschöpfen, eine verhältnismäßige Erhöhung der Bruchteile ein.

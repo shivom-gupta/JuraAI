@@ -1,0 +1,2 @@
+# § 1420 Verwendung zum Unterhalt
+Die Einkünfte, die in das Gesamtgut fallen, sind vor den Einkünften, die in das Vorbehaltsgut fallen, der Stamm des Gesamtguts ist vor dem Stamm des Vorbehaltsguts oder des Sonderguts für den Unterhalt der Familie zu verwenden.

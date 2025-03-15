@@ -1,0 +1,2 @@
+# § 822 Herausgabepflicht Dritter
+Wendet der Empfänger das Erlangte unentgeltlich einem Dritten zu, so ist, soweit infolgedessen die Verpflichtung des Empfängers zur Herausgabe der Bereicherung ausgeschlossen ist, der Dritte zur Herausgabe verpflichtet, wie wenn er die Zuwendung von dem Gläubiger ohne rechtlichen Grund erhalten hätte.

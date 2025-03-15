@@ -1,0 +1,2 @@
+# § 402 Auskunftspflicht; Urkundenauslieferung
+Der bisherige Gläubiger ist verpflichtet, dem neuen Gläubiger die zur Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die zum Beweis der Forderung dienenden Urkunden, soweit sie sich in seinem Besitz befinden, auszuliefern.

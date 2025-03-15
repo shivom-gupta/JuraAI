@@ -1,0 +1,2 @@
+# § 517 Unterlassen eines Vermögenserwerbs
+Eine Schenkung liegt nicht vor, wenn jemand zum Vorteil eines anderen einen Vermögenserwerb unterlässt oder auf ein angefallenes, noch nicht endgültig erworbenes Recht verzichtet oder eine Erbschaft oder ein Vermächtnis ausschlägt.

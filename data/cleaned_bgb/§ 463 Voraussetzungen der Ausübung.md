@@ -1,0 +1,2 @@
+# § 463 Voraussetzungen der Ausübung
+Wer in Ansehung eines Gegenstandes zum Vorkauf berechtigt ist, kann das Vorkaufsrecht ausüben, sobald der Verpflichtete mit einem Dritten einen Kaufvertrag über den Gegenstand geschlossen hat.

@@ -1,0 +1,2 @@
+# § 282 Schadensersatz statt der Leistung wegen Verletzung einer Pflicht nach § 241 Abs. 2
+Verletzt der Schuldner eine Pflicht nach § 241 Abs. 2, kann der Gläubiger unter den Voraussetzungen des § 280 Abs. 1 Schadensersatz statt der Leistung verlangen, wenn ihm die Leistung durch den Schuldner nicht mehr zuzumuten ist.

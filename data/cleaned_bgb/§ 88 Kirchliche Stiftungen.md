@@ -1,0 +1,2 @@
+# § 88 Kirchliche Stiftungen
+Die Vorschriften der Landesgesetze über die kirchlichen Stiftungen bleiben unberührt, insbesondere die Vorschriften zur Beteiligung, Zuständigkeit und Anfallsberechtigung der Kirchen. Dasselbe gilt entsprechend für Stiftungen, die nach den Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.

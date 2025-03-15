@@ -1,0 +1,2 @@
+# § 2223 Vermächtnisvollstrecker
+Der Erblasser kann einen Testamentsvollstrecker auch zu dem Zwecke ernennen, dass dieser für die Ausführung der einem Vermächtnisnehmer auferlegten Beschwerungen sorgt.

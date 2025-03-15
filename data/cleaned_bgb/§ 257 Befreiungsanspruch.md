@@ -1,0 +1,2 @@
+# § 257 Befreiungsanspruch
+Wer berechtigt ist, Ersatz für Aufwendungen zu verlangen, die er für einen bestimmten Zweck macht, kann, wenn er für diesen Zweck eine Verbindlichkeit eingeht, Befreiung von der Verbindlichkeit verlangen. Ist die Verbindlichkeit noch nicht fällig, so kann ihm der Ersatzpflichtige, statt ihn zu befreien, Sicherheit leisten.

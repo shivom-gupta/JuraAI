@@ -1,0 +1,2 @@
+# § 183 Widerruflichkeit der Einwilligung
+Die vorherige Zustimmung (Einwilligung) ist bis zur Vornahme des Rechtsgeschäfts widerruflich, soweit nicht aus dem ihrer Erteilung zugrunde liegenden Rechtsverhältnis sich ein anderes ergibt. Der Widerruf kann sowohl dem einen als dem anderen Teil gegenüber erklärt werden.
