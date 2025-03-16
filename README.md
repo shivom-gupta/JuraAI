@@ -45,7 +45,7 @@ RAG/
 ## Usage
 ### Running the RAG System
 ```bash
-python src/main/rag.py
+python rag.py
 ```
 This will prompt a sample legal query and return a relevant response.
 
