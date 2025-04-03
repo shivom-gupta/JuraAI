@@ -3,10 +3,12 @@ import logging
 import re
 from tqdm import tqdm
 import numpy as np
-from torch import tensor
+import torch 
 from sentence_transformers import SentenceTransformer
+import os
 
-def add_embeddings_to_json(json_file, output_json_file, batch_size=32, device='mps'):
+def add_embeddings_to_json(json_file, output_json_file, batch_size=32):
+    device = 'cuda' if torch.cuda.is_available() else 'mps' if torch.backends.mps.is_available() else 'cpu'
     with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
@@ -60,8 +62,41 @@ def get_similar_documents(embeddings, query, top_k=5, device='mps'):
     distances, indices = faiss_index.search(query_embedding, top_k)
     return indices.flatten().tolist()
 
+def extract_metadata_from_documents(path='data/cleaned_bgb'):
+    metadata = []
+    for file_name in os.listdir(path):
+        if "weggefallen" in file_name:
+            continue
+        input_path = os.path.join(path, file_name)
+        if os.path.isfile(input_path):
+            with open(input_path, 'r', encoding='utf-8') as file:
+                content = file.read()
+            metadata.append({
+                'Title': file_name.replace('.md', ''),
+                'cleaned_content_path': input_path,
+                'page_content': content
+            })
+    return metadata
+
 def main():
     json_file = "data/extracted_metadata.json"
+    if not os.path.exists(json_file):
+        metadata = extract_metadata_from_documents()
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(metadata, f, ensure_ascii=False, indent=2)
+    else:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            metadata = json.load(f)
+    # Check if the embeddings already exist
+    if os.path.exists("data/embeddings.json"):
+        with open("data/embeddings.json", 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        if len(data) == len(metadata):
+            print("Embeddings already exist.")
+            return
+    else:
+        print("Embeddings do not exist. Generating new embeddings.")
+
     output_json_file = "data/embeddings.json"
     add_embeddings_to_json(json_file, output_json_file)
     embeddings, data = load_embeddings_from_json(output_json_file)
