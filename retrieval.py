@@ -1,7 +1,7 @@
 import json
 import logging
 import re
-import numpy as np
+import streamlit as st
 from sentence_transformers import SentenceTransformer
 import faiss
 from rapidfuzz import fuzz
@@ -12,12 +12,8 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from database import load_embeddings_from_json
 from langchain_ollama import ChatOllama
 
-
-# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-
-# --- Retriever Class ---
 class Retriever:
     """
     Enhanced Retriever for German BGB legal documents implementing a hybrid
@@ -48,7 +44,7 @@ class Retriever:
                                       candidates exceeds this threshold.
             fuzzy_match_threshold: Minimum score (0-100) for fuzzy matching BGB references.
         """
-        logging.info("Initializing LegalRetrieverBGB...")
+        logging.info("Initializing Retriever...")
         self.device = device
         self.llm = ChatOllama(model=llm, device=device) if isinstance(llm, str) else llm
         if not isinstance(self.llm, BaseChatModel):
@@ -58,25 +54,19 @@ class Retriever:
         self.rerank_trigger_threshold = rerank_trigger_threshold
         self.fuzzy_match_threshold = fuzzy_match_threshold
 
-        # Load or initialize the encoder model
         if isinstance(encoder_model, str):
             logging.info(f"Loading SentenceTransformer model: {encoder_model}")
             self.encoder_model = SentenceTransformer(encoder_model, device=self.device)
         else:
             logging.info("Using pre-loaded SentenceTransformer model.")
-            self.encoder_model = encoder_model
-            # Consider moving the pre-loaded model to the specified device if needed
-            # self.encoder_model.to(self.device) # If applicable
+            self.encoder_model = encoder_model.to(self.device)
 
-        # Load data and embeddings
         self.embeddings, self.data = load_embeddings_from_json(data_path)
         if self.embeddings.shape[0] != len(self.data):
             raise ValueError("Mismatch between number of embeddings and data entries.")
 
-        # BGB Paragraph Pattern (captures § symbol, numbers, optional letters, BGB)
         self.bgb_paragraph_pattern = re.compile(r'§\s*(\d+\s*[a-zA-Z]?(?:\s*Abs\s*\.\s*\d+)?)\s*BGB', re.IGNORECASE)
 
-        # --- FAISS Index Setup ---
         logging.info("Setting up FAISS index...")
         embeddings_normalized = self.embeddings.copy()
         faiss.normalize_L2(embeddings_normalized) # Normalize for cosine similarity using IndexFlatIP
@@ -84,12 +74,10 @@ class Retriever:
         self.index.add(embeddings_normalized)
         logging.info(f"FAISS index created with {self.index.ntotal} vectors.")
 
-        # --- BGB Reference Index Setup ---
         logging.info("Building BGB reference index...")
-        self.bgb_index: Dict[str, List[int]] = {} # Maps normalized BGB ref -> list of doc indices
-        self.known_bgb_refs: set[str] = set() # Stores the normalized keys for faster lookup
+        self.bgb_index: Dict[str, List[int]] = {}
+        self.known_bgb_refs: set[str] = set()
         for idx, doc in enumerate(self.data):
-            # Ensure 'bgb_references' exists and is a list
             references = doc.get('bgb_references', [])
             if not isinstance(references, list):
                  logging.warning(f"Document index {idx} has invalid 'bgb_references' type: {type(references)}. Skipping.")
@@ -108,24 +96,19 @@ class Retriever:
 
     def _normalize_bgb_ref(self, ref: str) -> Optional[str]:
         """Normalizes a BGB reference string for consistent matching."""
-        # Basic normalization: uppercase, strip whitespace, standardize spacing around §
         ref = ref.strip().upper()
-        ref = re.sub(r'\s+', ' ', ref) # Consolidate whitespace
-        ref = re.sub(r'§\s+', '§', ref) # Remove space after §
-        # Potentially add more specific normalizations if needed (e.g., 'ABS.' -> 'ABS')
-        if re.match(r'§\d+', ref): # Basic check if it looks like a paragraph reference
+        ref = re.sub(r'\s+', ' ', ref)
+        ref = re.sub(r'§\s+', '§', ref)
+        if re.match(r'§\d+', ref):
              return ref
-        return None # Return None if it doesn't look like a valid reference after cleaning
+        return None
 
     def _find_closest_bgb_ref(self, extracted_ref_normalized: str) -> Optional[str]:
         """Finds the best matching known BGB reference using fuzzy matching."""
-        # This function now expects an already normalized extracted reference
         best_match, best_score = None, 0
-        # Optimization: Check for exact match first
         if extracted_ref_normalized in self.known_bgb_refs:
             return extracted_ref_normalized
 
-        # If no exact match, perform fuzzy search
         for known_ref in self.known_bgb_refs:
             score = fuzz.ratio(extracted_ref_normalized, known_ref)
             if score > best_score:
@@ -145,7 +128,6 @@ class Retriever:
         """
         logging.info(f"Optimizing query (strict no-BGB-addition mode): {query}")
 
-        # --- Updated Prompt ---
         optimization_prompt = """
         You are a legal expert system specializing in German Civil Law (BGB). Your task is to refine a user's query to make it more precise for searching legal documents, focusing *only* on clarifying the language and legal concepts based strictly on the input.
         **Allowed Modifications**:
@@ -179,11 +161,9 @@ class Retriever:
             response = self.llm.invoke(messages)
             content = response.content.strip()
 
-            # Extract content within brackets, handling potential LLM variations
             match = re.search(r'\[(.*)\]', content, re.DOTALL)
             if match:
                 optimized_query = match.group(1).strip()
-                # Log if the optimized query still contains a BGB ref (maybe user included it or LLM ignored instructions)
                 if self.bgb_paragraph_pattern.search(optimized_query):
                      logging.warning(f"Optimized query unexpectedly contains BGB reference despite instructions: {optimized_query}")
                 else:
@@ -191,11 +171,11 @@ class Retriever:
                 return optimized_query
             else:
                 logging.warning(f"LLM response for query optimization did not contain expected brackets: {content}. Using original query.")
-                return query # Fallback to original query
+                return query
 
         except Exception as e:
             logging.error(f"LLM invocation failed during query optimization: {e}")
-            return query # Fallback to original query
+            return query
 
     def retrieve_documents(self, query: str) -> List[int]:
         """
@@ -212,17 +192,15 @@ class Retriever:
             A list of unique document indices sorted primarily by BGB match source,
             then potentially by semantic score (though order isn't guaranteed after set).
         """
-        logging.info("Starting document retrieval process...")
+        st.spinner("Starting document retrieval process...")
         optimized_query = self.optimize_legal_query(query)
 
-        # --- 1. Extract & Match BGB References ---
         direct_matches_indices = set()
-        extracted_refs_raw = self.bgb_paragraph_pattern.findall(optimized_query) # Use findall to get all potential refs
+        extracted_refs_raw = self.bgb_paragraph_pattern.findall(optimized_query)
 
         if extracted_refs_raw:
             logging.info(f"Found potential BGB references in optimized query: {extracted_refs_raw}")
             for raw_ref_text in extracted_refs_raw:
-                # Construct the full §...BGB string for normalization/matching
                 full_ref_text = f"§ {raw_ref_text} BGB"
                 normalized_extracted_ref = self._normalize_bgb_ref(full_ref_text)
 
@@ -234,39 +212,26 @@ class Retriever:
                             logging.info(f"Found {len(indices)} direct matches for matched BGB ref: '{closest_known_ref}' (from extracted '{full_ref_text}')")
                             direct_matches_indices.update(indices)
                         else:
-                             logging.warning(f"BGB index key '{closest_known_ref}' exists but has no associated indices!") # Should not happen if built correctly
-                    # else: Ref not found via fuzzy match (already logged in _find_closest_bgb_ref)
-                # else: Normalization failed for raw_ref_text (unlikely with current regex/norm)
+                             logging.warning(f"BGB index key '{closest_known_ref}' exists but has no associated indices!")
 
-        logging.info(f"Found {len(direct_matches_indices)} unique document indices via BGB reference matching.")
+        st.spinner(f"Found {len(direct_matches_indices)} unique document indices via BGB reference matching.")
 
-        # --- 2. Semantic Search ---
-        logging.info("Performing semantic search with FAISS...")
+        st.spinner("Performing semantic search with FAISS...")
         query_embedding = self.encoder_model.encode(optimized_query, convert_to_numpy=True, normalize_embeddings=True)
         query_embedding = query_embedding.reshape(1, -1).astype('float32')
-        # No need to normalize again if normalize_embeddings=True in encode() and index is normalized
 
         distances, semantic_indices = self.index.search(query_embedding, self.retrieval_top_k)
-        semantic_indices = semantic_indices.flatten().tolist() # Get indices as a flat list
-        # Filter out potential -1 indices if k > index size (shouldn't happen with faiss normally)
+        semantic_indices = semantic_indices.flatten().tolist()
         semantic_indices = [idx for idx in semantic_indices if idx != -1]
-        logging.info(f"Semantic search retrieved {len(semantic_indices)} indices.")
+        st.spinner(f"Semantic search retrieved {len(semantic_indices)} indices.")
 
-        # --- 3. Combine Results ---
-        # Combine direct matches and semantic search results, ensuring uniqueness
         combined_indices = list(direct_matches_indices.union(set(semantic_indices)))
-        logging.info(f"Total unique candidate indices after combination: {len(combined_indices)}")
-
-        # Optional: Implement boosting for direct matches if needed later.
-        # For now, returning the combined set. Order might favor direct matches
-        # slightly due to how union works, but it's not guaranteed. Reranking handles final order.
-
+        st.spinner(f"Total unique candidate indices after combination: {len(combined_indices)}")
         return combined_indices
 
 
     def _legal_rerank_prompt_template(self, query, texts) -> str:
         """Generates the system prompt template for the LLM reranker."""
-        # Separated for clarity
         return f"""
         You are a highly meticulous German legal assistant (Rechtsreferendar) tasked with evaluating the legal relevance of exactly the provided text snippets in relation to the user query. Your goal is to assign a relevance score to each text snippet.
 
@@ -305,13 +270,11 @@ class Retriever:
         """Parses the LLM's JSON response for reranking scores."""
         scores: Dict[int, float] = {}
         try:
-            # Try to extract JSON blob robustly, handling potential markdown code fences
             json_match = re.search(r'```json\s*(\{.*\})\s*```|\{.*\}', response_content, re.DOTALL)
             if not json_match:
                  logging.warning(f"Could not find JSON object in LLM rerank response: {response_content[:500]}...")
-                 return {} # Return empty if no JSON found
+                 return {}
 
-            # Extract the actual JSON string (group 1 if ```json```, group 0 if just {...})
             json_str = json_match.group(1) if json_match.group(1) else json_match.group(0)
             response_json = json.loads(json_str)
 
@@ -329,18 +292,14 @@ class Retriever:
                     continue
 
                 try:
-                    # Text 1 corresponds to batch_indices[0], Text 2 to batch_indices[1], etc.
                     batch_offset = int(match.group(1)) - 1
                     if 0 <= batch_offset < len(batch_indices):
                         original_doc_idx = batch_indices[batch_offset]
 
-                        # Handle score being potentially nested or just a number
                         score = score_value
                         if isinstance(score_value, dict):
-                            # Adapt this if the LLM uses a different nested structure
                             score = score_value.get('score', score_value.get('Score', 10.0))
 
-                        # Convert to float and clamp
                         try:
                             score_float = float(score)
                             clamped_score = min(max(score_float, 1.0), 10.0)
@@ -398,7 +357,6 @@ class Retriever:
             
             formatted_texts = "\n\n".join(texts_for_prompt)
 
-            # Create the final prompt for this batch
             batch_prompt = self._legal_rerank_prompt_template(query=query, texts=formatted_texts)
 
             messages = [
@@ -411,27 +369,22 @@ class Retriever:
                 batch_scores = self._parse_rerank_response(response.content, batch_indices)
                 all_scores.update(batch_scores)
 
-                # Log missing scores for the batch
                 missing_indices = set(batch_indices) - set(batch_scores.keys())
                 if missing_indices:
                     logging.warning(f"LLM did not return scores for {len(missing_indices)} documents in the batch: {missing_indices}. Assigning default score 10.")
                     for missing_idx in missing_indices:
-                         all_scores[missing_idx] = 10.0 # Assign default bad score
+                         all_scores[missing_idx] = 10.0
 
             except Exception as e:
                 logging.error(f"LLM invocation or parsing failed for reranking batch starting at index {i}: {e}")
-                # Assign default bad score to all items in this failed batch
                 for idx in batch_indices:
-                    if idx not in all_scores: # Avoid overwriting if parsed partially before error
+                    if idx not in all_scores:
                          all_scores[idx] = 10.0
-        # Add default score for any candidates somehow missed (shouldn't happen)
         for idx in candidate_indices:
             if idx not in all_scores:
                 logging.warning(f"Candidate index {idx} was not scored during reranking. Assigning default score 10.")
                 all_scores[idx] = 10.0
 
-
-        # Sort by score (ascending, lower is better)
         sorted_results = sorted(all_scores.items(), key=lambda item: item[1])
         logging.info(f"Reranking complete. Returning {len(sorted_results)} scored documents.")
         return sorted_results
@@ -451,91 +404,67 @@ class Retriever:
             sorted by relevance (after potential reranking).
         """
         if top_n is None:
-            top_n = self.retrieval_top_k # Use the retrieval_top_k as default final count
+            top_n = self.retrieval_top_k
 
         logging.info(f"--- Starting full retrieval for query: '{user_query}' ---")
 
-        # 1. Initial Retrieval
         candidate_indices = self.retrieve_documents(user_query)
 
         if not candidate_indices:
             logging.info("No candidate documents found.")
             return []
 
-        # 2. Conditional Reranking
         final_indices: List[int]
         if len(candidate_indices) > self.rerank_trigger_threshold:
             logging.info(f"Number of candidates ({len(candidate_indices)}) exceeds threshold ({self.rerank_trigger_threshold}). Proceeding with LLM reranking.")
             ranked_results = self.rerank_documents(user_query, candidate_indices)
-            # Extract indices from sorted (index, score) tuples
             final_indices = [idx for idx, score in ranked_results]
         else:
             logging.info(f"Number of candidates ({len(candidate_indices)}) is below threshold ({self.rerank_trigger_threshold}). Skipping LLM reranking.")
-            # Keep the order from retrieval (though it's not strictly guaranteed)
-            # Or potentially sort by a preliminary score if FAISS returned distances?
-            # For simplicity, we'll just use the combined list as is for now.
-            final_indices = candidate_indices
 
-        # 3. Prepare final results
-        # Get the top N results based on the final order (either reranked or initial)
+            final_indices = candidate_indices
         top_indices = final_indices[:top_n]
 
-        # Retrieve the actual data for the top indices
         results_data = [self.data[idx] for idx in top_indices]
 
         logging.info(f"--- Retrieval complete. Returning {len(results_data)} final documents. ---")
         return results_data
 
-# --- Example Usage (requires setting up data and models) ---
 if __name__ == '__main__':
-    # This is a placeholder for demonstration.
-    # You need a real LLM instance (like ChatOllama) and a data file.
-    # Example: from langchain_ollama import ChatOllama
 
-    # --- Configuration ---
-    DATA_FILE = 'data/embeddings.json' # IMPORTANT: Update this path
-    LLM_MODEL_NAME = 'llama3.1' # Or your preferred model supported by Ollama
+    DATA_FILE = 'data/embeddings.json'
+    LLM_MODEL_NAME = 'llama3.1'
     ENCODER_MODEL_NAME = 'intfloat/multilingual-e5-large'
     DEVICE = 'cuda' if torch.cuda.is_available() else 'mps' if torch.backends.mps.is_available() else 'cpu'
 
     try:
-        # --- Setup ---
-        # 1. Initialize LLM
         llm = ChatOllama(model=LLM_MODEL_NAME, device=DEVICE)
 
-
-        # 2. Create Retriever Instance
         print("Initializing Retriever...")
         retriever = Retriever(
             llm=llm,
             encoder_model=ENCODER_MODEL_NAME,
             data_path=DATA_FILE,
             device=DEVICE,
-            retrieval_top_k=20,       # Retrieve initial 20
-            rerank_trigger_threshold=8, # Rerank if > 8 candidates
-            rerank_batch_size=4       # Rerank in batches of 4
+            retrieval_top_k=20,
+            rerank_trigger_threshold=8,
+            rerank_batch_size=4
         )
         print("Retriever initialized successfully.")
-
-        # --- Run Query ---
-        # user_query = "Was passiert bei unerlaubter Untervermietung?"
         user_query = "Can I cancel the purchase contract if the product is defected?"
 
         print(f"\nExecuting query: '{user_query}'")
-        final_results = retriever.get_results(user_query, top_n=5) # Get final top 5
+        final_results = retriever.get_results(user_query, top_n=5)
 
-        # --- Display Results ---
         print("\n--- Top 5 Results ---")
         if final_results:
             for i, doc in enumerate(final_results):
                  print(f"\nResult {i+1}:")
                  print(f"  Source: {doc.get('cleaned_content_path', 'N/A')}")
-                 # Display BGB references if they exist and are not empty
                  refs = doc.get('bgb_references')
                  if refs:
                      print(f"  BGB Refs: {', '.join(refs)}")
-                 # Show beginning of text
-                 print(f"  Text: {doc.get('page_content', '')[:300]}...") # Show snippet
+                 print(f"  Text: {doc.get('page_content', '')[:300]}...")
         else:
             print("No relevant documents found.")
 
